@@ -23,12 +23,22 @@ void plotHist(allData *allWhite, allData *allBlack, allData *allGrey) {
 
 }
 
-void get_std(allData *all[3]) {
+// Get std dev for each color
+void get_std(allData *allColor[3], vector<BOT*> x) {
 
+	allColor[0]->get_std(x);
+	allColor[1]->get_std(x);
+	allColor[2]->get_std(x);
 
+	printf("All white std = %f\n",  allColor[0]->stdDev);
+    printf("All black std = %f\n",  allColor[1]->stdDev);
+    printf("All grey std = %f\n",  allColor[2]->stdDev);
+
+	printf("\nAll white confidence = %f\n",  allColor[0]->confidence);
+    printf("All black confidence = %f\n",  allColor[1]->confidence);
+    printf("All grey confidence = %f\n\n",  allColor[2]->confidence);
 
 }
-
 
 int main( int argc, char **argv ){
 
@@ -56,8 +66,8 @@ int main( int argc, char **argv ){
 
 	// ARRAY OF ALL DATA
 	allData *allWhite = new allData("white");
-        allData *allBlack = new allData("black");
-        allData *allGrey = new allData("grey");
+    allData *allBlack = new allData("black");
+    allData *allGrey = new allData("grey");
 	allData *allColor[3] = { allWhite, allBlack, allGrey };
 
 
@@ -116,6 +126,12 @@ int main( int argc, char **argv ){
 
 		x[i]->plotHist();
 	}
+
+	allColor[0]->plotHist(x);
+	allColor[1]->plotHist(x);
+	allColor[2]->plotHist(x);
+
+	get_std(allColor, x);
 
 
 	printf("White total = %d with %d entries.\n", allWhite->meas_total, allWhite->running_total);

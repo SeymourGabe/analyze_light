@@ -44,12 +44,12 @@ void BOT::get_std() {
 	this->grey.get_std();
 
 	printf("Bot %d white std = %f\n", this->bot_number, this->white.stdDev);
-        printf("Bot %d black std = %f\n", this->bot_number, this->black.stdDev);
-        printf("Bot %d grey std = %f\n", this->bot_number, this->grey.stdDev);
+    printf("Bot %d black std = %f\n", this->bot_number, this->black.stdDev);
+    printf("Bot %d grey std = %f\n", this->bot_number, this->grey.stdDev);
 
 	printf("\nBot %d white confidence = %f\n", this->bot_number, this->white.confidence);
-        printf("Bot %d black confidence = %f\n", this->bot_number, this->black.confidence);
-        printf("Bot %d grey confidence = %f\n\n", this->bot_number, this->grey.confidence);
+    printf("Bot %d black confidence = %f\n", this->bot_number, this->black.confidence);
+    printf("Bot %d grey confidence = %f\n\n", this->bot_number, this->grey.confidence);
 
 }
 
