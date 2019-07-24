@@ -1,4 +1,4 @@
-#ifndef ANALYSE_LIGHT_H
+/*#ifndef ANALYZE_LIGHT_H
 #define ANALYZE_LIGHT_H
 
 
@@ -63,3 +63,4 @@ BOT() {
 
 
 #endif
+*/
