@@ -17,7 +17,8 @@ using namespace std;
 void BOT::color::get_std() {
 
 	float array[this->running_total];
-	float all = 0;
+	float all;
+	all = 0;
 
 	for (int i = 0; i < this->running_total; i++) {
 		array[i] = ((float)this->measurements[i] - this->avg)*((float)this->measurements[i] - this->avg);
