@@ -9,9 +9,9 @@ CXX = g++ -O0 -std=c++11
 #LDFLAGS = -g
 #LDLIBS =
 
-analyze_light: main.o allData.o bot.o
-	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(LDLIBS) main.o bot.o allData.o -o analyze_light
-main.o: main.cpp bot.hpp allData.hpp
+analyze_light: analyze_light.o allData.o bot.o
+	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(LDLIBS) analyze_light.o bot.o allData.o -o analyze_light
+analyze_light.o: analyze_light.cpp bot.hpp allData.hpp
 bot.o: bot.cpp bot.hpp allData.hpp
 allData.o: allData.cpp allData.hpp
 # selectionsort: selectionsort_main.o selectionsort.o
