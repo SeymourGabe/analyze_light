@@ -6,9 +6,6 @@ class BOT {
 public:
 uint8_t bot_number;
 
-//void White(std::string s, uint8_t white);
-//void Black(std::string s, uint8_t black);
-//void Grey(std::string s, uint8_t grey);
 void set_avg();	
 typedef struct {
 	std::string type;
@@ -26,10 +23,11 @@ typedef struct {
 
 void plotHist();
 void updateColor(std::string s, uint8_t color_flag);
-color black;//("black");
-color grey;//("grey");
-color white;//("white");
+color black;
+color grey;
+color white;
 
+// BOT constructor. Will have to change later on when this becomes more generalized.
 BOT() {
 	black.type = "black";
 	grey.type = "grey";
