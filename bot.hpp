@@ -1,26 +1,8 @@
-#ifndef ANALYSE_LIGHT_H
-#define ANALYZE_LIGHT_H
+#ifndef BOT_H
+#define BOT_H
+#include "allData.hpp"
 
-
-typedef struct allData{
-
-	std::string type;
-        uint32_t meas_total = 0;
-        uint32_t running_total = 0;
-        float avg;
-	float stdDev;
-	uint16_t minMeasure = 2048;
-	uint16_t maxMeasure = 0;
-
-	void updateTotal(int newEntry);
-	void get_std();
-	void plotHist(std::vector<BOT *> x);
-//	allData(std::string s) {type = s;}
-	allData(std::string s);
-} allData;
-
-void get_std(allData *all[3]);
-
+struct allData;
 
 class BOT {
 public:

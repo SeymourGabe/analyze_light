@@ -9,11 +9,13 @@ CXX = g++ -O0 -std=c++11
 #LDFLAGS = -g
 #LDLIBS =
 
-analyze_light: analyze_light.o
-	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(LDLIBS) analyze_light.o -o analyze_light
-analyze_light.o: analyze_light.cpp analyze_light.hpp
+analyze_light: main.o allData.o bot.o
+	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(LDLIBS) main.o bot.o allData.o -o analyze_light
+main.o: main.cpp bot.hpp allData.hpp
+bot.o: bot.cpp bot.hpp allData.hpp
+allData.o: allData.cpp allData.hpp
 # selectionsort: selectionsort_main.o selectionsort.o
-# selectionsort_main.o: selectionsort_main.c selectionsort.h 
+# selectionsort_main.o: selectionsort_main.c selectionsort.h
 # selectionsort.o: selectionsort.c selectionsort.h
 
 .PHONY: clean
@@ -22,4 +24,3 @@ clean:
 
 .PHONY: all
 all: clean analyze_light
-
