@@ -16,7 +16,13 @@ using namespace std;
 allData::allData(string s) {
 	this->type = s;
 }
+/*
+// Reset Max and Min as needed.
+void allData::resetMaxMin(BOT::color current) {
+	this->minMeasure = 2048;
 
+}
+*/
 
 // Get the std of all colors
 void allData::get_std(vector<BOT*> x) {
@@ -69,10 +75,47 @@ void allData::updateTotal(int newEntry) {
 		this->maxMeasure = newEntry;
 }
 
+// Set the max and mins.... after Chauvenet applied
+void allData::max_min(vector<BOT*> x) {
+
+	this->minMeasure = 2048;
+	this->maxMeasure = 0;
+	this->meas_total = 0;
+	this->running_total = 0;
+
+	BOT::color threeColors;//[3] = {x[it]->white, x[it]->black, x[it]->grey};
+	for (int it = 0; it < x.size(); it++ ) {
+			if (this->type == "white") {
+				threeColors = x[it]->white;
+			} else if (this->type == "black") {
+				threeColors = x[it]->black;
+			} else if (this->type == "grey") {
+				threeColors = x[it]->grey;
+			}
+
+       		for (int i = 0; i < threeColors.running_total; i++) { // Loop through all iterations
+
+				if (threeColors.measurements[i] > this->maxMeasure)
+					this->maxMeasure = threeColors.measurements[i];
+				if (threeColors.measurements[i] < this->minMeasure)
+					this->minMeasure = threeColors.measurements[i];
+
+				this->meas_total += threeColors.measurements[i];
+				++this->running_total;
+
+        	}
+	}
+
+
+}
+
+
 // Plot a histogram for the specified color
 void allData::plotHist(vector<BOT*> x) {
 
-    printf("~~~~~~~~~~~~ %s ~~~~~~~~~~~\n", this->type.c_str());
+	this->max_min(x); // Reset the max and min of allData of specific color
+
+	printf("~~~~~~~~~~~~ %s ~~~~~~~~~~~\n", this->type.c_str());
     float binSize = ((float)this->maxMeasure - (float)this->minMeasure) / NUMBINS_ALL; // Intensity range each bin should cover
 	this->avg = (float)this->meas_total / (float)this->running_total;
 

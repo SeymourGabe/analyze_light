@@ -9,6 +9,8 @@ class BOT;
 typedef struct allData{
 // VARIABLES
 	std::string type;
+	std::string dataType = "all";
+	uint32_t bot_number = 0;
     uint32_t meas_total = 0;
     uint32_t running_total = 0;
     float avg;
@@ -22,6 +24,9 @@ typedef struct allData{
 	void updateTotal(int newEntry);
 	void get_std(std::vector<BOT*> x);
 	void plotHist(std::vector<BOT *> x);
+	void max_min(std::vector<BOT *> x);
+
+// CONSTRUCTOR
 	allData(std::string s);
 
 } allData;

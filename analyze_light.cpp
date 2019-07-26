@@ -13,33 +13,16 @@
 #define BUFFER 1024
 #define NUMBINS 10
 #define NUMBINS_ALL 25
+#define HEADERSIZE 100
 using namespace std;
 
-void plotHist(allData *allWhite, allData *allBlack, allData *allGrey) {
+// Predefine some functions
+void printer(BOT* x);
+void printer();
+void get_std(allData *allColor[3], vector<BOT*> x);
 
-        //allWhite->plotHist();
-        //allBlack->plotHist();
-        //allGrey->plotHist();
 
-}
-
-// Get std dev for each color
-void get_std(allData *allColor[3], vector<BOT*> x) {
-
-	allColor[0]->get_std(x);
-	allColor[1]->get_std(x);
-	allColor[2]->get_std(x);
-
-	printf("All white std = %f\n",  allColor[0]->stdDev);
-    printf("All black std = %f\n",  allColor[1]->stdDev);
-    printf("All grey std = %f\n",  allColor[2]->stdDev);
-
-	printf("\nAll white confidence = %f\n",  allColor[0]->confidence);
-    printf("All black confidence = %f\n",  allColor[1]->confidence);
-    printf("All grey confidence = %f\n\n",  allColor[2]->confidence);
-
-}
-
+// Main
 int main( int argc, char **argv ){
 
 	// OPEN FILE
@@ -109,24 +92,25 @@ int main( int argc, char **argv ){
 	}
 
 	printf("There are %d bots\n\n", bots);
+
 	// LOOP OVER ALL BOTS AND SET THEIR AVERAGE. PRINT THE AVERAGE
+	uint8_t flag;
 	for (int i = 0; i < x.size(); i++) {
-
-		printf("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-		if (x[i]->bot_number < 10)
-			printf("\n~~~~~~~~~~~~~~~~~~~~~~ Bot number %d ~~~~~~~~~~~~~~~~~~~\n", x[i]->bot_number);
-		else
-                        printf("\n~~~~~~~~~~~~~~~~~~~~~~ Bot number %d~~~~~~~~~~~~~~~~~~~\n", x[i]->bot_number);
-
-		printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
-
+		flag = 0;
+		printer(x[i]);
 		x[i]->set_avg();
 
 		x[i]->get_std();
 
 		x[i]->plotHist();
+
+		flag = x[i]->chauvenet();//allColor);
+
+		if (flag)
+			x[i]->plotHist();
 	}
 
+	printer();
 	allColor[0]->plotHist(x);
 	allColor[1]->plotHist(x);
 	allColor[2]->plotHist(x);
@@ -140,4 +124,70 @@ int main( int argc, char **argv ){
 
 	fclose(readFile); // Close the file
 	return 0;
+}
+
+
+
+
+// Get std dev for each color
+void get_std(allData *allColor[3], vector<BOT*> x) {
+
+	allColor[0]->get_std(x);
+	allColor[1]->get_std(x);
+	allColor[2]->get_std(x);
+
+	printf("All white average = %f\n",  allColor[0]->avg);
+	printf("All black average = %f\n",  allColor[1]->avg);
+	printf("All grey average = %f\n\n",  allColor[2]->avg);
+
+	printf("All white std = %f\n",  allColor[0]->stdDev);
+    printf("All black std = %f\n",  allColor[1]->stdDev);
+    printf("All grey std = %f\n",  allColor[2]->stdDev);
+
+	printf("\nAll white confidence = %f\n",  allColor[0]->confidence);
+    printf("All black confidence = %f\n",  allColor[1]->confidence);
+    printf("All grey confidence = %f\n\n",  allColor[2]->confidence);
+
+}
+
+// Nice printing format :)
+void printer(){
+	printf("\n");
+	for (int j = 0; j < HEADERSIZE*2; j++)
+		printf("~");
+	printf("\n");
+	for (int j = 0; j < HEADERSIZE - 7; j++)
+		printf("~");
+
+	printf("~~ All Data ~~");
+
+	for (int j = 0; j < HEADERSIZE - 7; j++)
+		printf("~");
+	printf("\n");
+	for (int j = 0; j < HEADERSIZE*2; j++)
+		printf("~");
+	printf("\n\n");
+}
+
+
+// Nice printing format :)
+void printer(BOT* x){
+	printf("\n");
+	for (int j = 0; j < HEADERSIZE; j++)
+		printf("~");
+	printf("\n");
+	for (int j = 0; j < HEADERSIZE/2 - 7; j++)
+		printf("~");
+
+	if (x->bot_number < 10)
+		printf(" Bot number %d ", x->bot_number);
+	else
+		printf(" Bot number %d", x->bot_number);
+
+	for (int j = 0; j < HEADERSIZE/2 - 7; j++)
+		printf("~");
+	printf("\n");
+	for (int j = 0; j < HEADERSIZE; j++)
+		printf("~");
+	printf("\n\n");
 }
