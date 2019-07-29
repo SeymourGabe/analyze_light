@@ -9,9 +9,9 @@ CXX = g++ -O0 -std=c++11
 #LDFLAGS = -g
 #LDLIBS =
 
-analyze_light: analyze_light.o allData.o bot.o
-	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(LDLIBS) analyze_light.o bot.o allData.o -o analyze_light
-analyze_light.o: analyze_light.cpp bot.hpp allData.hpp
+noise_analysis: noise_analysis.o allData.o bot.o
+	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(LDLIBS) noise_analysis.o bot.o allData.o -o noise_analysis
+noise_analysis.o: noise_analysis.cpp bot.hpp allData.hpp
 bot.o: bot.cpp bot.hpp allData.hpp
 allData.o: allData.cpp allData.hpp
 # selectionsort: selectionsort_main.o selectionsort.o
@@ -20,7 +20,7 @@ allData.o: allData.cpp allData.hpp
 
 .PHONY: clean
 clean:
-	rm -f *.o a.out core analyze_light
+	rm -f *.o a.out core noise_analysis
 
 .PHONY: all
-all: clean analyze_light
+all: clean noise_analysis
