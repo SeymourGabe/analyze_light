@@ -5,7 +5,9 @@
 struct allData;
 
 class BOT {
+
 public:
+std::string dataType = "bot";
 uint8_t bot_number;
 
 void set_avg();
@@ -20,6 +22,8 @@ typedef struct {
 	float stdDev;
 	float confidence;
 
+	void resetMaxMin();
+	uint8_t chauvenet();
 	void updateColor(std::string s);
 	void set_avg();
 	void plotHist();
@@ -27,6 +31,7 @@ typedef struct {
 	uint16_t get_value(uint8_t i);
 } color;
 
+uint8_t chauvenet();//allData *allColor[3]);
 void get_std();
 void plotHist();
 void updateColor(std::string s, uint8_t color_flag, allData *allColor[3]);

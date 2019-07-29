@@ -1,0 +1,13 @@
+BOT 1
+WHITE
+POS 2
+Measurement 1 = 273	Measurement 2 = 253	Measurement 3 = 251	Measurement 4 = 245	Measurement 5 = 268
+Measurement 6 = 240	Measurement 7 = 254	Measurement 8 = 270	Measurement 9 = 239	Measurement 10 = 253
+Measurement 11 = 267	Measurement 12 = 242	Measurement 13 = 253	Measurement 14 = 267	Measurement 15 = 242
+Measurement 16 = 255	Measurement 17 = 258	Measurement 18 = 247	Measurement 19 = 267	Measurement 20 = 248
+Measurement 21 = 250	Measurement 22 = 265	Measurement 23 = 258	Measurement 24 = 241	Measurement 25 = 255
+Measurement 26 = 267	Measurement 27 = 241	Measurement 28 = 254	Measurement 29 = 272	Measurement 30 = 245
+Measurement 31 = 249	Measurement 32 = 266	Measurement 33 = 252	Measurement 34 = 251	Measurement 35 = 268
+Measurement 36 = 247	Measurement 37 = 248	Measurement 38 = 272	Measurement 39 = 241	Measurement 40 = 254
+Measurement 41 = 268	Measurement 42 = 242	Measurement 43 = 253	Measurement 44 = 263	Measurement 45 = 242
+Measurement 46 = 265	Measurement 47 = 254	Measurement 48 = 250	Measurement 49 = 269	Measurement 50 = 247

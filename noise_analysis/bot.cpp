@@ -13,6 +13,54 @@ using namespace std;
 
 // --------------------- For BOT::color and BOT-------------------- \\
 
+// Check data against Chauvenet's Criterion for extreme outliers
+uint8_t BOT::color::chauvenet() {
+	uint8_t flag = 0;
+
+	for (int i = 0; i < this->running_total; i++) {
+		if (this->measurements[i] <= this->avg - 2.75*this->stdDev || this->measurements[i] >= this->avg + 2.75*this->stdDev) {
+			flag = 1;
+			printf("%s: measurement %d = %d. This is outside of the acceptable range from %f to %f.\n\n", this->type.c_str(), i, this->measurements[i], this->avg - 2.75*this->stdDev, this->avg + 2.75*this->stdDev);
+			this->measurements[i] = this->measurements[this->running_total - 1];
+			--this->running_total;
+		}
+	}
+
+	if (flag)
+		this->resetMaxMin();
+	return flag;
+
+}
+
+void BOT::color::resetMaxMin(){
+
+	this->minMeasure = 2048;
+	this->maxMeasure = 0;
+
+	for(int i = 0; i < this->running_total; i++){
+		if (this->measurements[i] > this->maxMeasure)
+			this->maxMeasure = this->measurements[i];
+		if (this->measurements[i] < this->minMeasure)
+			this->minMeasure = this->measurements[i];
+	}
+
+}
+
+// Check data against Chauvenet's Criterion for extreme outliers
+uint8_t BOT::chauvenet() {
+
+	uint8_t flag1 = this->white.chauvenet();
+	uint8_t flag2 = this->black.chauvenet();
+	uint8_t flag3 = this->grey.chauvenet();
+	//if (flag1)
+	//	allColor[0]->resetMaxMin(this->white);
+
+	return flag1 + flag2 + flag3;
+
+}
+
+
+
 // Get std for specified color
 void BOT::color::get_std() {
 
@@ -44,12 +92,12 @@ void BOT::get_std() {
 	this->grey.get_std();
 
 	printf("Bot %d white std = %f\n", this->bot_number, this->white.stdDev);
-        printf("Bot %d black std = %f\n", this->bot_number, this->black.stdDev);
-        printf("Bot %d grey std = %f\n", this->bot_number, this->grey.stdDev);
+    printf("Bot %d black std = %f\n", this->bot_number, this->black.stdDev);
+    printf("Bot %d grey std = %f\n", this->bot_number, this->grey.stdDev);
 
 	printf("\nBot %d white confidence = %f\n", this->bot_number, this->white.confidence);
-        printf("Bot %d black confidence = %f\n", this->bot_number, this->black.confidence);
-        printf("Bot %d grey confidence = %f\n\n", this->bot_number, this->grey.confidence);
+    printf("Bot %d black confidence = %f\n", this->bot_number, this->black.confidence);
+    printf("Bot %d grey confidence = %f\n\n", this->bot_number, this->grey.confidence);
 
 }
 
