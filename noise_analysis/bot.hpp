@@ -7,10 +7,17 @@ struct allData;
 class BOT {
 
 public:
+
+BOT();
+
 std::string dataType = "bot";
 uint8_t bot_number;
-
 void set_avg();
+uint8_t chauvenet();
+void get_std();
+void plotHist();
+void updateColor(std::string s, uint8_t color_flag, allData *allColor[3]);
+
 typedef struct {
 	std::string type;
 	uint16_t measurements[50];
@@ -31,21 +38,22 @@ typedef struct {
 	uint16_t get_value(uint8_t i);
 } color;
 
-uint8_t chauvenet();//allData *allColor[3]);
-void get_std();
-void plotHist();
-void updateColor(std::string s, uint8_t color_flag, allData *allColor[3]);
+//uint8_t chauvenet();//allData *allColor[3]);
+//void get_std();
+//void plotHist();
+//void updateColor(std::string s, uint8_t color_flag, allData *allColor[3]);
 color black;
 color grey;
 color white;
 
-// BOT constructor. Will have to change later on when this becomes more generalized.
+public:
+/*// BOT constructor. Will have to change later on when this becomes more generalized.
 BOT() {
 	black.type = "black";
 	grey.type = "grey";
 	white.type = "white";
 }
-
+*/
 };
 
 

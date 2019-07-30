@@ -13,6 +13,16 @@ using namespace std;
 
 // --------------------- For BOT::color and BOT-------------------- \\
 
+// BOT constructor. Will have to change later on when this becomes more generalized
+BOT::BOT(){
+
+	white.type = "white";
+	grey.type = "grey";
+	black.type = "black";
+
+}	
+
+
 // Check data against Chauvenet's Criterion for extreme outliers
 uint8_t BOT::color::chauvenet() {
 	uint8_t flag = 0;
