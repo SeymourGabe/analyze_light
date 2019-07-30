@@ -1101,3 +1101,1741 @@ Measurement 31 = 30	Measurement 32 = 32	Measurement 33 = 26	Measurement 34 = 29	
 Measurement 36 = 28	Measurement 37 = 30	Measurement 38 = 29	Measurement 39 = 29	Measurement 40 = 30
 Measurement 41 = 28	Measurement 42 = 31	Measurement 43 = 28	Measurement 44 = 29	Measurement 45 = 32
 Measurement 46 = 26	Measurement 47 = 29	Measurement 48 = 32	Measurement 49 = 28	Measurement 50 = 30
+
+BOT 3
+Black
+POS 1
+Measurement 1 = 7	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 6
+Measurement 6 = 6	Measurement 7 = 7	Measurement 8 = 6	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 6	Measurement 12 = 6	Measurement 13 = 6	Measurement 14 = 6	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 6	Measurement 18 = 6	Measurement 19 = 6	Measurement 20 = 7
+Measurement 21 = 6	Measurement 22 = 6	Measurement 23 = 6	Measurement 24 = 6	Measurement 25 = 7
+Measurement 26 = 6	Measurement 27 = 7	Measurement 28 = 6	Measurement 29 = 7	Measurement 30 = 6
+Measurement 31 = 6	Measurement 32 = 6	Measurement 33 = 7	Measurement 34 = 6	Measurement 35 = 7
+Measurement 36 = 6	Measurement 37 = 6	Measurement 38 = 6	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 6	Measurement 43 = 7	Measurement 44 = 6	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 6	Measurement 48 = 6	Measurement 49 = 7	Measurement 50 = 6
+
+POS 2
+	Measurement 1 = 7	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 6	Measurement 5 = 6
+Measurement 6 = 6	Measurement 7 = 6	Measurement 8 = 6	Measurement 9 = 6	Measurement 10 = 6
+Measurement 11 = 6	Measurement 12 = 6	Measurement 13 = 6	Measurement 14 = 6	Measurement 15 = 6
+Measurement 16 = 6	Measurement 17 = 6	Measurement 18 = 6	Measurement 19 = 6	Measurement 20 = 6
+Measurement 21 = 6	Measurement 22 = 6	Measurement 23 = 7	Measurement 24 = 6	Measurement 25 = 6
+Measurement 26 = 6	Measurement 27 = 7	Measurement 28 = 6	Measurement 29 = 6	Measurement 30 = 6
+Measurement 31 = 6	Measurement 32 = 6	Measurement 33 = 6	Measurement 34 = 6	Measurement 35 = 6
+Measurement 36 = 6	Measurement 37 = 6	Measurement 38 = 6	Measurement 39 = 6	Measurement 40 = 6
+Measurement 41 = 6	Measurement 42 = 6	Measurement 43 = 6	Measurement 44 = 6	Measurement 45 = 6
+Measurement 46 = 6	Measurement 47 = 6	Measurement 48 = 6	Measurement 49 = 6	Measurement 50 = 6
+
+POS 3
+Measurement 1 = 7	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 9	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 8	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 8	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 4
+Measurement 1 = 9	Measurement 2 = 9	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 8	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 5
+Measurement 1 = 11	Measurement 2 = 11	Measurement 3 = 11	Measurement 4 = 7	Measurement 5 = 8
+Measurement 6 = 9	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 6
+Measurement 1 = 7	Measurement 2 = 7	Measurement 3 = 6	Measurement 4 = 6	Measurement 5 = 6
+Measurement 6 = 6	Measurement 7 = 6	Measurement 8 = 6	Measurement 9 = 6	Measurement 10 = 6
+Measurement 11 = 6	Measurement 12 = 6	Measurement 13 = 6	Measurement 14 = 6	Measurement 15 = 6
+Measurement 16 = 6	Measurement 17 = 6	Measurement 18 = 6	Measurement 19 = 6	Measurement 20 = 6
+Measurement 21 = 6	Measurement 22 = 6	Measurement 23 = 6	Measurement 24 = 6	Measurement 25 = 6
+Measurement 26 = 6	Measurement 27 = 6	Measurement 28 = 6	Measurement 29 = 6	Measurement 30 = 6
+Measurement 31 = 6	Measurement 32 = 6	Measurement 33 = 6	Measurement 34 = 6	Measurement 35 = 6
+Measurement 36 = 6	Measurement 37 = 6	Measurement 38 = 6	Measurement 39 = 6	Measurement 40 = 6
+Measurement 41 = 6	Measurement 42 = 6	Measurement 43 = 6	Measurement 44 = 6	Measurement 45 = 6
+Measurement 46 = 6	Measurement 47 = 6	Measurement 48 = 6	Measurement 49 = 6	Measurement 50 = 6
+
+POS 7
+Measurement 1 = 12	Measurement 2 = 11	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 9	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 8
+Measurement 1 = 16	Measurement 2 = 16	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 8
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 9	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 9
+Measurement 1 = 11	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 9	Measurement 23 = 7	Measurement 24 = 9	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 8	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 10
+Measurement 1 = 13	Measurement 2 = 13	Measurement 3 = 8	Measurement 4 = 7	Measurement 5 = 8
+Measurement 6 = 7	Measurement 7 = 8	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 8
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 9	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 8	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 10
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 8	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 8	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 8	Measurement 33 = 11	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 8	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 8	Measurement 44 = 7	Measurement 45 = 9
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 11
+Measurement 1 = 7	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 12
+	Measurement 1 = 9	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 13
+Measurement 1 = 12	Measurement 2 = 12	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+BOT 2
+Black
+POS 13
+Measurement 1 = 6	Measurement 2 = 6	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 4	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 12
+Measurement 1 = 4	Measurement 2 = 4	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 11
+Measurement 1 = 4	Measurement 2 = 4	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 9
+Measurement 1 = 4	Measurement 2 = 4	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 10
+Measurement 1 = 4	Measurement 2 = 5	Measurement 3 = 5	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 4	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 8
+Measurement 1 = 6	Measurement 2 = 6	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 4
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 4	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 7
+Measurement 1 = 5	Measurement 2 = 5	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 4	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 6
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 5
+Measurement 1 = 4	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 4
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 3
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 2
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 1
+Measurement 1 = 4	Measurement 2 = 4	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+BOT 1
+White
+POS 24
+	Measurement 1 = 232	Measurement 2 = 240	Measurement 3 = 237	Measurement 4 = 229	Measurement 5 = 224
+Measurement 6 = 241	Measurement 7 = 219	Measurement 8 = 226	Measurement 9 = 246	Measurement 10 = 214
+Measurement 11 = 232	Measurement 12 = 243	Measurement 13 = 222	Measurement 14 = 243	Measurement 15 = 212
+Measurement 16 = 235	Measurement 17 = 225	Measurement 18 = 227	Measurement 19 = 245	Measurement 20 = 213
+Measurement 21 = 241	Measurement 22 = 212	Measurement 23 = 231	Measurement 24 = 241	Measurement 25 = 214
+Measurement 26 = 241	Measurement 27 = 217	Measurement 28 = 230	Measurement 29 = 243	Measurement 30 = 217
+Measurement 31 = 242	Measurement 32 = 212	Measurement 33 = 230	Measurement 34 = 233	Measurement 35 = 225
+Measurement 36 = 242	Measurement 37 = 218	Measurement 38 = 227	Measurement 39 = 247	Measurement 40 = 211
+Measurement 41 = 231	Measurement 42 = 245	Measurement 43 = 214	Measurement 44 = 229	Measurement 45 = 243
+Measurement 46 = 215	Measurement 47 = 235	Measurement 48 = 219	Measurement 49 = 225	Measurement 50 = 244
+
+POS 25
+Measurement 1 = 276	Measurement 2 = 260	Measurement 3 = 287	Measurement 4 = 250	Measurement 5 = 275
+Measurement 6 = 272	Measurement 7 = 254	Measurement 8 = 279	Measurement 9 = 262	Measurement 10 = 263
+Measurement 11 = 290	Measurement 12 = 251	Measurement 13 = 268	Measurement 14 = 278	Measurement 15 = 260
+Measurement 16 = 284	Measurement 17 = 258	Measurement 18 = 267	Measurement 19 = 286	Measurement 20 = 251
+Measurement 21 = 281	Measurement 22 = 271	Measurement 23 = 260	Measurement 24 = 288	Measurement 25 = 250
+Measurement 26 = 268	Measurement 27 = 280	Measurement 28 = 256	Measurement 29 = 284	Measurement 30 = 255
+Measurement 31 = 268	Measurement 32 = 282	Measurement 33 = 251	Measurement 34 = 280	Measurement 35 = 262
+Measurement 36 = 263	Measurement 37 = 289	Measurement 38 = 250	Measurement 39 = 281	Measurement 40 = 257
+Measurement 41 = 268	Measurement 42 = 285	Measurement 43 = 255	Measurement 44 = 285	Measurement 45 = 250
+Measurement 46 = 273	Measurement 47 = 266	Measurement 48 = 265	Measurement 49 = 287	Measurement 50 = 254
+
+POS 26
+Measurement 1 = 215	Measurement 2 = 263	Measurement 3 = 245	Measurement 4 = 259	Measurement 5 = 231
+Measurement 6 = 258	Measurement 7 = 239	Measurement 8 = 239	Measurement 9 = 263	Measurement 10 = 229
+Measurement 11 = 252	Measurement 12 = 244	Measurement 13 = 238	Measurement 14 = 261	Measurement 15 = 229
+Measurement 16 = 244	Measurement 17 = 246	Measurement 18 = 238	Measurement 19 = 260	Measurement 20 = 227
+Measurement 21 = 244	Measurement 22 = 255	Measurement 23 = 228	Measurement 24 = 255	Measurement 25 = 235
+Measurement 26 = 244	Measurement 27 = 259	Measurement 28 = 231	Measurement 29 = 247	Measurement 30 = 252
+Measurement 31 = 232	Measurement 32 = 256	Measurement 33 = 233	Measurement 34 = 242	Measurement 35 = 260
+Measurement 36 = 230	Measurement 37 = 253	Measurement 38 = 233	Measurement 39 = 245	Measurement 40 = 241
+Measurement 41 = 237	Measurement 42 = 260	Measurement 43 = 228	Measurement 44 = 243	Measurement 45 = 253
+Measurement 46 = 231	Measurement 47 = 256	Measurement 48 = 235	Measurement 49 = 237	Measurement 50 = 261
+
+POS 23
+Measurement 1 = 281	Measurement 2 = 317	Measurement 3 = 309	Measurement 4 = 301	Measurement 5 = 294
+Measurement 6 = 318	Measurement 7 = 289	Measurement 8 = 303	Measurement 9 = 321	Measurement 10 = 284
+Measurement 11 = 317	Measurement 12 = 291	Measurement 13 = 304	Measurement 14 = 321	Measurement 15 = 283
+Measurement 16 = 317	Measurement 17 = 287	Measurement 18 = 304	Measurement 19 = 319	Measurement 20 = 285
+Measurement 21 = 316	Measurement 22 = 291	Measurement 23 = 300	Measurement 24 = 321	Measurement 25 = 288
+Measurement 26 = 320	Measurement 27 = 283	Measurement 28 = 308	Measurement 29 = 295	Measurement 30 = 303
+Measurement 31 = 314	Measurement 32 = 295	Measurement 33 = 322	Measurement 34 = 284	Measurement 35 = 312
+Measurement 36 = 292	Measurement 37 = 298	Measurement 38 = 323	Measurement 39 = 284	Measurement 40 = 315
+Measurement 41 = 289	Measurement 42 = 302	Measurement 43 = 318	Measurement 44 = 284	Measurement 45 = 315
+Measurement 46 = 291	Measurement 47 = 299	Measurement 48 = 323	Measurement 49 = 285	Measurement 50 = 314
+
+POS 22
+Measurement 1 = 274	Measurement 2 = 335	Measurement 3 = 302	Measurement 4 = 327	Measurement 5 = 288
+Measurement 6 = 311	Measurement 7 = 317	Measurement 8 = 294	Measurement 9 = 323	Measurement 10 = 293
+Measurement 11 = 307	Measurement 12 = 323	Measurement 13 = 287	Measurement 14 = 322	Measurement 15 = 295
+Measurement 16 = 305	Measurement 17 = 324	Measurement 18 = 285	Measurement 19 = 321	Measurement 20 = 297
+Measurement 21 = 301	Measurement 22 = 323	Measurement 23 = 300	Measurement 24 = 329	Measurement 25 = 285
+Measurement 26 = 321	Measurement 27 = 292	Measurement 28 = 308	Measurement 29 = 319	Measurement 30 = 290
+Measurement 31 = 322	Measurement 32 = 284	Measurement 33 = 308	Measurement 34 = 323	Measurement 35 = 285
+Measurement 36 = 320	Measurement 37 = 303	Measurement 38 = 300	Measurement 39 = 326	Measurement 40 = 288
+Measurement 41 = 321	Measurement 42 = 293	Measurement 43 = 304	Measurement 44 = 324	Measurement 45 = 292
+Measurement 46 = 324	Measurement 47 = 285	Measurement 48 = 312	Measurement 49 = 301	Measurement 50 = 308
+
+POS 21
+Measurement 1 = 389	Measurement 2 = 363	Measurement 3 = 350	Measurement 4 = 312	Measurement 5 = 350
+Measurement 6 = 316	Measurement 7 = 333	Measurement 8 = 355	Measurement 9 = 312	Measurement 10 = 333
+Measurement 11 = 338	Measurement 12 = 321	Measurement 13 = 349	Measurement 14 = 320	Measurement 15 = 330
+Measurement 16 = 354	Measurement 17 = 311	Measurement 18 = 332	Measurement 19 = 342	Measurement 20 = 319
+Measurement 21 = 351	Measurement 22 = 312	Measurement 23 = 335	Measurement 24 = 332	Measurement 25 = 326
+Measurement 26 = 350	Measurement 27 = 314	Measurement 28 = 347	Measurement 29 = 318	Measurement 30 = 333
+Measurement 31 = 350	Measurement 32 = 312	Measurement 33 = 347	Measurement 34 = 321	Measurement 35 = 326
+Measurement 36 = 355	Measurement 37 = 311	Measurement 38 = 333	Measurement 39 = 335	Measurement 40 = 327
+Measurement 41 = 352	Measurement 42 = 313	Measurement 43 = 334	Measurement 44 = 351	Measurement 45 = 312
+Measurement 46 = 347	Measurement 47 = 324	Measurement 48 = 326	Measurement 49 = 355	Measurement 50 = 316
+
+POS 20
+Measurement 1 = 390	Measurement 2 = 344	Measurement 3 = 354	Measurement 4 = 385	Measurement 5 = 338
+Measurement 6 = 380	Measurement 7 = 342	Measurement 8 = 361	Measurement 9 = 368	Measurement 10 = 354
+Measurement 11 = 385	Measurement 12 = 338	Measurement 13 = 376	Measurement 14 = 350	Measurement 15 = 358
+Measurement 16 = 384	Measurement 17 = 341	Measurement 18 = 383	Measurement 19 = 338	Measurement 20 = 374
+Measurement 21 = 355	Measurement 22 = 354	Measurement 23 = 386	Measurement 24 = 345	Measurement 25 = 374
+Measurement 26 = 350	Measurement 27 = 363	Measurement 28 = 380	Measurement 29 = 343	Measurement 30 = 380
+Measurement 31 = 348	Measurement 32 = 363	Measurement 33 = 371	Measurement 34 = 356	Measurement 35 = 388
+Measurement 36 = 343	Measurement 37 = 377	Measurement 38 = 351	Measurement 39 = 364	Measurement 40 = 381
+Measurement 41 = 350	Measurement 42 = 386	Measurement 43 = 339	Measurement 44 = 371	Measurement 45 = 362
+Measurement 46 = 356	Measurement 47 = 390	Measurement 48 = 341	Measurement 49 = 376	Measurement 50 = 374
+
+POS 19
+Measurement 1 = 580	Measurement 2 = 650	Measurement 3 = 588	Measurement 4 = 580	Measurement 5 = 636
+Measurement 6 = 595	Measurement 7 = 653	Measurement 8 = 576	Measurement 9 = 623	Measurement 10 = 635
+Measurement 11 = 598	Measurement 12 = 646	Measurement 13 = 605	Measurement 14 = 609	Measurement 15 = 658
+Measurement 16 = 583	Measurement 17 = 637	Measurement 18 = 609	Measurement 19 = 607	Measurement 20 = 656
+Measurement 21 = 584	Measurement 22 = 633	Measurement 23 = 616	Measurement 24 = 608	Measurement 25 = 658
+Measurement 26 = 577	Measurement 27 = 638	Measurement 28 = 596	Measurement 29 = 619	Measurement 30 = 653
+Measurement 31 = 585	Measurement 32 = 638	Measurement 33 = 609	Measurement 34 = 608	Measurement 35 = 660
+Measurement 36 = 579	Measurement 37 = 627	Measurement 38 = 636	Measurement 39 = 603	Measurement 40 = 650
+Measurement 41 = 591	Measurement 42 = 621	Measurement 43 = 638	Measurement 44 = 593	Measurement 45 = 653
+Measurement 46 = 589	Measurement 47 = 626	Measurement 48 = 652	Measurement 49 = 577	Measurement 50 = 644
+
+POS 18
+Measurement 1 = 434	Measurement 2 = 376	Measurement 3 = 418	Measurement 4 = 371	Measurement 5 = 395
+Measurement 6 = 406	Measurement 7 = 386	Measurement 8 = 421	Measurement 9 = 371	Measurement 10 = 396
+Measurement 11 = 412	Measurement 12 = 386	Measurement 13 = 423	Measurement 14 = 395	Measurement 15 = 413
+Measurement 16 = 386	Measurement 17 = 417	Measurement 18 = 375	Measurement 19 = 396	Measurement 20 = 409
+Measurement 21 = 390	Measurement 22 = 417	Measurement 23 = 378	Measurement 24 = 395	Measurement 25 = 420
+Measurement 26 = 374	Measurement 27 = 414	Measurement 28 = 384	Measurement 29 = 396	Measurement 30 = 415
+Measurement 31 = 373	Measurement 32 = 422	Measurement 33 = 372	Measurement 34 = 404	Measurement 35 = 394
+Measurement 36 = 385	Measurement 37 = 425	Measurement 38 = 373	Measurement 39 = 404	Measurement 40 = 394
+Measurement 41 = 385	Measurement 42 = 421	Measurement 43 = 372	Measurement 44 = 410	Measurement 45 = 384
+Measurement 46 = 389	Measurement 47 = 418	Measurement 48 = 371	Measurement 49 = 413	Measurement 50 = 383
+
+POS 17
+	Measurement 1 = 507	Measurement 2 = 515	Measurement 3 = 578	Measurement 4 = 548	Measurement 5 = 548
+Measurement 6 = 533	Measurement 7 = 549	Measurement 8 = 531	Measurement 9 = 577	Measurement 10 = 543
+Measurement 11 = 549	Measurement 12 = 544	Measurement 13 = 548	Measurement 14 = 577	Measurement 15 = 517
+Measurement 16 = 561	Measurement 17 = 548	Measurement 18 = 545	Measurement 19 = 543	Measurement 20 = 588
+Measurement 21 = 520	Measurement 22 = 588	Measurement 23 = 519	Measurement 24 = 553	Measurement 25 = 545
+Measurement 26 = 581	Measurement 27 = 521	Measurement 28 = 585	Measurement 29 = 487	Measurement 30 = 578
+Measurement 31 = 542	Measurement 32 = 572	Measurement 33 = 535	Measurement 34 = 588	Measurement 35 = 503
+Measurement 36 = 611	Measurement 37 = 497	Measurement 38 = 575	Measurement 39 = 524	Measurement 40 = 588
+Measurement 41 = 503	Measurement 42 = 601	Measurement 43 = 489	Measurement 44 = 609	Measurement 45 = 471
+Measurement 46 = 634	Measurement 47 = 458	Measurement 48 = 602	Measurement 49 = 489	Measurement 50 = 604
+
+POS 16
+Measurement 1 = 286	Measurement 2 = 316	Measurement 3 = 252	Measurement 4 = 316	Measurement 5 = 256
+Measurement 6 = 309	Measurement 7 = 269	Measurement 8 = 310	Measurement 9 = 291	Measurement 10 = 280
+Measurement 11 = 313	Measurement 12 = 291	Measurement 13 = 290	Measurement 14 = 316	Measurement 15 = 278
+Measurement 16 = 292	Measurement 17 = 309	Measurement 18 = 278	Measurement 19 = 296	Measurement 20 = 308
+Measurement 21 = 273	Measurement 22 = 309	Measurement 23 = 287	Measurement 24 = 281	Measurement 25 = 309
+Measurement 26 = 279	Measurement 27 = 296	Measurement 28 = 314	Measurement 29 = 273	Measurement 30 = 310
+Measurement 31 = 276	Measurement 32 = 282	Measurement 33 = 303	Measurement 34 = 278	Measurement 35 = 309
+Measurement 36 = 286	Measurement 37 = 291	Measurement 38 = 309	Measurement 39 = 273	Measurement 40 = 303
+Measurement 41 = 301	Measurement 42 = 280	Measurement 43 = 308	Measurement 44 = 285	Measurement 45 = 289
+Measurement 46 = 313	Measurement 47 = 277	Measurement 48 = 290	Measurement 49 = 313	Measurement 50 = 278
+
+POS 15
+Measurement 1 = 306	Measurement 2 = 292	Measurement 3 = 312	Measurement 4 = 294	Measurement 5 = 309
+Measurement 6 = 273	Measurement 7 = 301	Measurement 8 = 298	Measurement 9 = 282	Measurement 10 = 307
+Measurement 11 = 283	Measurement 12 = 284	Measurement 13 = 309	Measurement 14 = 282	Measurement 15 = 283
+Measurement 16 = 311	Measurement 17 = 276	Measurement 18 = 288	Measurement 19 = 310	Measurement 20 = 276
+Measurement 21 = 297	Measurement 22 = 305	Measurement 23 = 273	Measurement 24 = 301	Measurement 25 = 292
+Measurement 26 = 284	Measurement 27 = 309	Measurement 28 = 282	Measurement 29 = 286	Measurement 30 = 310
+Measurement 31 = 276	Measurement 32 = 290	Measurement 33 = 310	Measurement 34 = 274	Measurement 35 = 304
+Measurement 36 = 293	Measurement 37 = 278	Measurement 38 = 306	Measurement 39 = 286	Measurement 40 = 284
+Measurement 41 = 312	Measurement 42 = 275	Measurement 43 = 297	Measurement 44 = 296	Measurement 45 = 277
+Measurement 46 = 304	Measurement 47 = 289	Measurement 48 = 285	Measurement 49 = 310	Measurement 50 = 278
+
+POS 14
+Measurement 1 = 395	Measurement 2 = 378	Measurement 3 = 309	Measurement 4 = 378	Measurement 5 = 319
+Measurement 6 = 373	Measurement 7 = 319	Measurement 8 = 372	Measurement 9 = 309	Measurement 10 = 369
+Measurement 11 = 311	Measurement 12 = 373	Measurement 13 = 291	Measurement 14 = 360	Measurement 15 = 304
+Measurement 16 = 357	Measurement 17 = 299	Measurement 18 = 369	Measurement 19 = 307	Measurement 20 = 372
+Measurement 21 = 295	Measurement 22 = 355	Measurement 23 = 303	Measurement 24 = 365	Measurement 25 = 306
+Measurement 26 = 378	Measurement 27 = 313	Measurement 28 = 400	Measurement 29 = 281	Measurement 30 = 365
+Measurement 31 = 316	Measurement 32 = 361	Measurement 33 = 306	Measurement 34 = 362	Measurement 35 = 296
+Measurement 36 = 357	Measurement 37 = 310	Measurement 38 = 357	Measurement 39 = 323	Measurement 40 = 359
+Measurement 41 = 314	Measurement 42 = 377	Measurement 43 = 316	Measurement 44 = 362	Measurement 45 = 332
+Measurement 46 = 359	Measurement 47 = 340	Measurement 48 = 348	Measurement 49 = 305	Measurement 50 = 355
+
+BOT 1
+Grey
+POS 14
+Measurement 1 = 46	Measurement 2 = 40	Measurement 3 = 51	Measurement 4 = 36	Measurement 5 = 52
+Measurement 6 = 38	Measurement 7 = 49	Measurement 8 = 40	Measurement 9 = 52	Measurement 10 = 35
+Measurement 11 = 54	Measurement 12 = 38	Measurement 13 = 45	Measurement 14 = 40	Measurement 15 = 56
+Measurement 16 = 34	Measurement 17 = 57	Measurement 18 = 37	Measurement 19 = 44	Measurement 20 = 42
+Measurement 21 = 52	Measurement 22 = 32	Measurement 23 = 54	Measurement 24 = 40	Measurement 25 = 46
+Measurement 26 = 43	Measurement 27 = 48	Measurement 28 = 37	Measurement 29 = 53	Measurement 30 = 35
+Measurement 31 = 49	Measurement 32 = 41	Measurement 33 = 45	Measurement 34 = 46	Measurement 35 = 56
+Measurement 36 = 37	Measurement 37 = 49	Measurement 38 = 39	Measurement 39 = 45	Measurement 40 = 44
+Measurement 41 = 47	Measurement 42 = 37	Measurement 43 = 52	Measurement 44 = 37	Measurement 45 = 49
+Measurement 46 = 40	Measurement 47 = 48	Measurement 48 = 44	Measurement 49 = 50	Measurement 50 = 40
+
+POS 15
+Measurement 1 = 38	Measurement 2 = 35	Measurement 3 = 34	Measurement 4 = 37	Measurement 5 = 40
+Measurement 6 = 36	Measurement 7 = 36	Measurement 8 = 36	Measurement 9 = 38	Measurement 10 = 36
+Measurement 11 = 34	Measurement 12 = 37	Measurement 13 = 41	Measurement 14 = 31	Measurement 15 = 37
+Measurement 16 = 35	Measurement 17 = 37	Measurement 18 = 36	Measurement 19 = 35	Measurement 20 = 37
+Measurement 21 = 37	Measurement 22 = 30	Measurement 23 = 37	Measurement 24 = 37	Measurement 25 = 38
+Measurement 26 = 35	Measurement 27 = 35	Measurement 28 = 38	Measurement 29 = 39	Measurement 30 = 30
+Measurement 31 = 38	Measurement 32 = 37	Measurement 33 = 37	Measurement 34 = 36	Measurement 35 = 35
+Measurement 36 = 37	Measurement 37 = 36	Measurement 38 = 34	Measurement 39 = 37	Measurement 40 = 39
+Measurement 41 = 34	Measurement 42 = 35	Measurement 43 = 35	Measurement 44 = 37	Measurement 45 = 36
+Measurement 46 = 34	Measurement 47 = 37	Measurement 48 = 39	Measurement 49 = 33	Measurement 50 = 34
+
+POS 16
+Measurement 1 = 34	Measurement 2 = 35	Measurement 3 = 37	Measurement 4 = 39	Measurement 5 = 37
+Measurement 6 = 36	Measurement 7 = 39	Measurement 8 = 38	Measurement 9 = 35	Measurement 10 = 39
+Measurement 11 = 37	Measurement 12 = 36	Measurement 13 = 39	Measurement 14 = 38	Measurement 15 = 37
+Measurement 16 = 36	Measurement 17 = 36	Measurement 18 = 38	Measurement 19 = 36	Measurement 20 = 40
+Measurement 21 = 32	Measurement 22 = 39	Measurement 23 = 41	Measurement 24 = 31	Measurement 25 = 39
+Measurement 26 = 39	Measurement 27 = 35	Measurement 28 = 39	Measurement 29 = 41	Measurement 30 = 31
+Measurement 31 = 39	Measurement 32 = 37	Measurement 33 = 38	Measurement 34 = 37	Measurement 35 = 39
+Measurement 36 = 38	Measurement 37 = 37	Measurement 38 = 36	Measurement 39 = 38	Measurement 40 = 37
+Measurement 41 = 36	Measurement 42 = 38	Measurement 43 = 37	Measurement 44 = 36	Measurement 45 = 38
+Measurement 46 = 41	Measurement 47 = 31	Measurement 48 = 38	Measurement 49 = 39	Measurement 50 = 36
+
+POS 17
+Measurement 1 = 78	Measurement 2 = 93	Measurement 3 = 93	Measurement 4 = 92	Measurement 5 = 91
+Measurement 6 = 87	Measurement 7 = 91	Measurement 8 = 92	Measurement 9 = 91	Measurement 10 = 88
+Measurement 11 = 92	Measurement 12 = 91	Measurement 13 = 86	Measurement 14 = 92	Measurement 15 = 106
+Measurement 16 = 76	Measurement 17 = 93	Measurement 18 = 91	Measurement 19 = 93	Measurement 20 = 87
+Measurement 21 = 88	Measurement 22 = 93	Measurement 23 = 90	Measurement 24 = 87	Measurement 25 = 93
+Measurement 26 = 89	Measurement 27 = 88	Measurement 28 = 92	Measurement 29 = 89	Measurement 30 = 99
+Measurement 31 = 73	Measurement 32 = 91	Measurement 33 = 102	Measurement 34 = 88	Measurement 35 = 87
+Measurement 36 = 93	Measurement 37 = 90	Measurement 38 = 85	Measurement 39 = 87	Measurement 40 = 92
+Measurement 41 = 90	Measurement 42 = 86	Measurement 43 = 93	Measurement 44 = 91	Measurement 45 = 86
+Measurement 46 = 93	Measurement 47 = 90	Measurement 48 = 71	Measurement 49 = 93	Measurement 50 = 87
+
+POS 18
+Measurement 1 = 63	Measurement 2 = 70	Measurement 3 = 44	Measurement 4 = 63	Measurement 5 = 63
+Measurement 6 = 64	Measurement 7 = 63	Measurement 8 = 60	Measurement 9 = 65	Measurement 10 = 73
+Measurement 11 = 53	Measurement 12 = 65	Measurement 13 = 64	Measurement 14 = 65	Measurement 15 = 62
+Measurement 16 = 61	Measurement 17 = 65	Measurement 18 = 66	Measurement 19 = 51	Measurement 20 = 63
+Measurement 21 = 61	Measurement 22 = 64	Measurement 23 = 64	Measurement 24 = 54	Measurement 25 = 60
+Measurement 26 = 64	Measurement 27 = 65	Measurement 28 = 62	Measurement 29 = 61	Measurement 30 = 65
+Measurement 31 = 72	Measurement 32 = 52	Measurement 33 = 66	Measurement 34 = 64	Measurement 35 = 64
+Measurement 36 = 63	Measurement 37 = 61	Measurement 38 = 64	Measurement 39 = 71	Measurement 40 = 52
+Measurement 41 = 64	Measurement 42 = 65	Measurement 43 = 65	Measurement 44 = 62	Measurement 45 = 61
+Measurement 46 = 65	Measurement 47 = 67	Measurement 48 = 51	Measurement 49 = 66	Measurement 50 = 61
+
+POS 19
+Measurement 1 = 80	Measurement 2 = 67	Measurement 3 = 87	Measurement 4 = 97	Measurement 5 = 86
+Measurement 6 = 86	Measurement 7 = 81	Measurement 8 = 86	Measurement 9 = 86	Measurement 10 = 81
+Measurement 11 = 86	Measurement 12 = 86	Measurement 13 = 82	Measurement 14 = 86	Measurement 15 = 88
+Measurement 16 = 70	Measurement 17 = 85	Measurement 18 = 86	Measurement 19 = 87	Measurement 20 = 84
+Measurement 21 = 82	Measurement 22 = 87	Measurement 23 = 91	Measurement 24 = 69	Measurement 25 = 88
+Measurement 26 = 95	Measurement 27 = 71	Measurement 28 = 80	Measurement 29 = 92	Measurement 30 = 86
+Measurement 31 = 89	Measurement 32 = 96	Measurement 33 = 78	Measurement 34 = 87	Measurement 35 = 84
+Measurement 36 = 90	Measurement 37 = 68	Measurement 38 = 86	Measurement 39 = 86	Measurement 40 = 81
+Measurement 41 = 85	Measurement 42 = 88	Measurement 43 = 99	Measurement 44 = 71	Measurement 45 = 88
+Measurement 46 = 95	Measurement 47 = 78	Measurement 48 = 88	Measurement 49 = 85	Measurement 50 = 81
+
+POS 20
+Measurement 1 = 55	Measurement 2 = 50	Measurement 3 = 53	Measurement 4 = 52	Measurement 5 = 45
+Measurement 6 = 58	Measurement 7 = 56	Measurement 8 = 57	Measurement 9 = 51	Measurement 10 = 52
+Measurement 11 = 45	Measurement 12 = 50	Measurement 13 = 50	Measurement 14 = 55	Measurement 15 = 53
+Measurement 16 = 51	Measurement 17 = 44	Measurement 18 = 48	Measurement 19 = 48	Measurement 20 = 53
+Measurement 21 = 52	Measurement 22 = 50	Measurement 23 = 49	Measurement 24 = 56	Measurement 25 = 49
+Measurement 26 = 56	Measurement 27 = 52	Measurement 28 = 51	Measurement 29 = 51	Measurement 30 = 56
+Measurement 31 = 51	Measurement 32 = 57	Measurement 33 = 51	Measurement 34 = 51	Measurement 35 = 50
+Measurement 36 = 63	Measurement 37 = 44	Measurement 38 = 56	Measurement 39 = 49	Measurement 40 = 52
+Measurement 41 = 45	Measurement 42 = 66	Measurement 43 = 44	Measurement 44 = 53	Measurement 45 = 47
+Measurement 46 = 58	Measurement 47 = 43	Measurement 48 = 62	Measurement 49 = 43	Measurement 50 = 53
+
+POS 21
+Measurement 1 = 33	Measurement 2 = 33	Measurement 3 = 26	Measurement 4 = 27	Measurement 5 = 25
+Measurement 6 = 34	Measurement 7 = 28	Measurement 8 = 33	Measurement 9 = 26	Measurement 10 = 28
+Measurement 11 = 30	Measurement 12 = 34	Measurement 13 = 28	Measurement 14 = 32	Measurement 15 = 27
+Measurement 16 = 29	Measurement 17 = 30	Measurement 18 = 33	Measurement 19 = 28	Measurement 20 = 30
+Measurement 21 = 28	Measurement 22 = 27	Measurement 23 = 31	Measurement 24 = 32	Measurement 25 = 28
+Measurement 26 = 30	Measurement 27 = 28	Measurement 28 = 28	Measurement 29 = 31	Measurement 30 = 30
+Measurement 31 = 28	Measurement 32 = 34	Measurement 33 = 31	Measurement 34 = 26	Measurement 35 = 30
+Measurement 36 = 29	Measurement 37 = 27	Measurement 38 = 31	Measurement 39 = 27	Measurement 40 = 26
+Measurement 41 = 29	Measurement 42 = 32	Measurement 43 = 31	Measurement 44 = 29	Measurement 45 = 27
+Measurement 46 = 26	Measurement 47 = 28	Measurement 48 = 30	Measurement 49 = 31	Measurement 50 = 29
+
+POS 22
+Measurement 1 = 27	Measurement 2 = 29	Measurement 3 = 33	Measurement 4 = 28	Measurement 5 = 31
+Measurement 6 = 29	Measurement 7 = 30	Measurement 8 = 25	Measurement 9 = 31	Measurement 10 = 30
+Measurement 11 = 29	Measurement 12 = 31	Measurement 13 = 30	Measurement 14 = 29	Measurement 15 = 31
+Measurement 16 = 29	Measurement 17 = 29	Measurement 18 = 31	Measurement 19 = 29	Measurement 20 = 29
+Measurement 21 = 31	Measurement 22 = 29	Measurement 23 = 29	Measurement 24 = 31	Measurement 25 = 29
+Measurement 26 = 29	Measurement 27 = 30	Measurement 28 = 29	Measurement 29 = 29	Measurement 30 = 30
+Measurement 31 = 29	Measurement 32 = 31	Measurement 33 = 25	Measurement 34 = 31	Measurement 35 = 30
+Measurement 36 = 28	Measurement 37 = 31	Measurement 38 = 29	Measurement 39 = 30	Measurement 40 = 26
+Measurement 41 = 30	Measurement 42 = 31	Measurement 43 = 25	Measurement 44 = 30	Measurement 45 = 29
+Measurement 46 = 30	Measurement 47 = 25	Measurement 48 = 31	Measurement 49 = 30	Measurement 50 = 29
+
+POS 23
+Measurement 1 = 30	Measurement 2 = 30	Measurement 3 = 26	Measurement 4 = 35	Measurement 5 = 26
+Measurement 6 = 30	Measurement 7 = 26	Measurement 8 = 24	Measurement 9 = 29	Measurement 10 = 31
+Measurement 11 = 25	Measurement 12 = 29	Measurement 13 = 29	Measurement 14 = 27	Measurement 15 = 29
+Measurement 16 = 28	Measurement 17 = 28	Measurement 18 = 29	Measurement 19 = 28	Measurement 20 = 28
+Measurement 21 = 29	Measurement 22 = 28	Measurement 23 = 28	Measurement 24 = 29	Measurement 25 = 28
+Measurement 26 = 28	Measurement 27 = 30	Measurement 28 = 27	Measurement 29 = 32	Measurement 30 = 26
+Measurement 31 = 29	Measurement 32 = 30	Measurement 33 = 27	Measurement 34 = 30	Measurement 35 = 29
+Measurement 36 = 27	Measurement 37 = 29	Measurement 38 = 29	Measurement 39 = 28	Measurement 40 = 29
+Measurement 41 = 28	Measurement 42 = 28	Measurement 43 = 29	Measurement 44 = 31	Measurement 45 = 26
+Measurement 46 = 29	Measurement 47 = 30	Measurement 48 = 27	Measurement 49 = 30	Measurement 50 = 29
+
+POS 24
+Measurement 1 = 22	Measurement 2 = 24	Measurement 3 = 21	Measurement 4 = 22	Measurement 5 = 22
+Measurement 6 = 23	Measurement 7 = 20	Measurement 8 = 22	Measurement 9 = 21	Measurement 10 = 21
+Measurement 11 = 22	Measurement 12 = 21	Measurement 13 = 21	Measurement 14 = 22	Measurement 15 = 22
+Measurement 16 = 20	Measurement 17 = 22	Measurement 18 = 24	Measurement 19 = 18	Measurement 20 = 22
+Measurement 21 = 22	Measurement 22 = 22	Measurement 23 = 21	Measurement 24 = 21	Measurement 25 = 22
+Measurement 26 = 21	Measurement 27 = 20	Measurement 28 = 22	Measurement 29 = 23	Measurement 30 = 18
+Measurement 31 = 22	Measurement 32 = 22	Measurement 33 = 20	Measurement 34 = 21	Measurement 35 = 21
+Measurement 36 = 22	Measurement 37 = 21	Measurement 38 = 21	Measurement 39 = 22	Measurement 40 = 21
+Measurement 41 = 20	Measurement 42 = 22	Measurement 43 = 23	Measurement 44 = 19	Measurement 45 = 20
+Measurement 46 = 21	Measurement 47 = 22	Measurement 48 = 21	Measurement 49 = 21	Measurement 50 = 22
+
+POS 25
+Measurement 1 = 21	Measurement 2 = 18	Measurement 3 = 22	Measurement 4 = 21	Measurement 5 = 21
+Measurement 6 = 19	Measurement 7 = 22	Measurement 8 = 22	Measurement 9 = 21	Measurement 10 = 19
+Measurement 11 = 22	Measurement 12 = 22	Measurement 13 = 21	Measurement 14 = 20	Measurement 15 = 22
+Measurement 16 = 21	Measurement 17 = 23	Measurement 18 = 20	Measurement 19 = 22	Measurement 20 = 21
+Measurement 21 = 23	Measurement 22 = 20	Measurement 23 = 22	Measurement 24 = 21	Measurement 25 = 21
+Measurement 26 = 22	Measurement 27 = 21	Measurement 28 = 23	Measurement 29 = 18	Measurement 30 = 22
+Measurement 31 = 22	Measurement 32 = 20	Measurement 33 = 22	Measurement 34 = 21	Measurement 35 = 21
+Measurement 36 = 22	Measurement 37 = 21	Measurement 38 = 22	Measurement 39 = 18	Measurement 40 = 22
+Measurement 41 = 23	Measurement 42 = 20	Measurement 43 = 22	Measurement 44 = 21	Measurement 45 = 21
+Measurement 46 = 20	Measurement 47 = 22	Measurement 48 = 24	Measurement 49 = 19	Measurement 50 = 22
+
+POS 26
+Measurement 1 = 20	Measurement 2 = 22	Measurement 3 = 22	Measurement 4 = 23	Measurement 5 = 25
+Measurement 6 = 20	Measurement 7 = 23	Measurement 8 = 24	Measurement 9 = 21	Measurement 10 = 22
+Measurement 11 = 22	Measurement 12 = 23	Measurement 13 = 22	Measurement 14 = 22	Measurement 15 = 24
+Measurement 16 = 22	Measurement 17 = 22	Measurement 18 = 24	Measurement 19 = 22	Measurement 20 = 22
+Measurement 21 = 24	Measurement 22 = 23	Measurement 23 = 21	Measurement 24 = 23	Measurement 25 = 24
+Measurement 26 = 21	Measurement 27 = 24	Measurement 28 = 24	Measurement 29 = 19	Measurement 30 = 23
+Measurement 31 = 24	Measurement 32 = 20	Measurement 33 = 24	Measurement 34 = 25	Measurement 35 = 19
+Measurement 36 = 23	Measurement 37 = 24	Measurement 38 = 21	Measurement 39 = 23	Measurement 40 = 22
+Measurement 41 = 22	Measurement 42 = 23	Measurement 43 = 22	Measurement 44 = 22	Measurement 45 = 23
+Measurement 46 = 22	Measurement 47 = 22	Measurement 48 = 23	Measurement 49 = 24	Measurement 50 = 19
+
+BOT 1
+Black
+POS 26
+Measurement 1 = 2	Measurement 2 = 2	Measurement 3 = 1	Measurement 4 = 1	Measurement 5 = 1
+Measurement 6 = 1	Measurement 7 = 1	Measurement 8 = 1	Measurement 9 = 1	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 1	Measurement 14 = 1	Measurement 15 = 1
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 1	Measurement 20 = 1
+Measurement 21 = 1	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 1	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 1	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 1	Measurement 38 = 1	Measurement 39 = 1	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 1
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 25
+Measurement 1 = 5	Measurement 2 = 5	Measurement 3 = 1	Measurement 4 = 1	Measurement 5 = 1
+Measurement 6 = 1	Measurement 7 = 1	Measurement 8 = 1	Measurement 9 = 1	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 1	Measurement 14 = 1	Measurement 15 = 1
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 1	Measurement 20 = 1
+Measurement 21 = 1	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 1	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 1	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 1	Measurement 38 = 1	Measurement 39 = 1	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 1
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 24
+Measurement 1 = 6	Measurement 2 = 1	Measurement 3 = 3	Measurement 4 = 2	Measurement 5 = 2
+Measurement 6 = 2	Measurement 7 = 2	Measurement 8 = 2	Measurement 9 = 2	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 2	Measurement 14 = 1	Measurement 15 = 2
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 2	Measurement 20 = 1
+Measurement 21 = 2	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 2	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 2	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 2	Measurement 38 = 1	Measurement 39 = 2	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 2
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 23
+Measurement 1 = 3	Measurement 2 = 2	Measurement 3 = 1	Measurement 4 = 1	Measurement 5 = 1
+Measurement 6 = 1	Measurement 7 = 1	Measurement 8 = 1	Measurement 9 = 1	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 1	Measurement 14 = 1	Measurement 15 = 1
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 1	Measurement 20 = 1
+Measurement 21 = 1	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 1	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 1	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 1	Measurement 38 = 1	Measurement 39 = 1	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 1
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 22
+Measurement 1 = 5	Measurement 2 = 6	Measurement 3 = 1	Measurement 4 = 1	Measurement 5 = 1
+Measurement 6 = 1	Measurement 7 = 1	Measurement 8 = 1	Measurement 9 = 1	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 1	Measurement 14 = 1	Measurement 15 = 1
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 1	Measurement 20 = 1
+Measurement 21 = 1	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 1	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 1	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 1	Measurement 38 = 1	Measurement 39 = 1	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 1
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 21
+Measurement 1 = 3	Measurement 2 = 1	Measurement 3 = 1	Measurement 4 = 1	Measurement 5 = 1
+Measurement 6 = 1	Measurement 7 = 1	Measurement 8 = 1	Measurement 9 = 1	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 1	Measurement 14 = 1	Measurement 15 = 1
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 1	Measurement 20 = 1
+Measurement 21 = 1	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 1	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 1	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 1	Measurement 38 = 1	Measurement 39 = 1	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 1
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 20
+Measurement 1 = 5	Measurement 2 = 4	Measurement 3 = 1	Measurement 4 = 1	Measurement 5 = 1
+Measurement 6 = 1	Measurement 7 = 1	Measurement 8 = 1	Measurement 9 = 1	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 1	Measurement 14 = 1	Measurement 15 = 1
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 1	Measurement 20 = 1
+Measurement 21 = 1	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 1	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 1	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 1	Measurement 38 = 1	Measurement 39 = 1	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 1
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 19
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 2	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 18
+Measurement 1 = 2	Measurement 2 = 2	Measurement 3 = 2	Measurement 4 = 2	Measurement 5 = 2
+Measurement 6 = 2	Measurement 7 = 2	Measurement 8 = 2	Measurement 9 = 2	Measurement 10 = 2
+Measurement 11 = 2	Measurement 12 = 2	Measurement 13 = 2	Measurement 14 = 2	Measurement 15 = 2
+Measurement 16 = 2	Measurement 17 = 2	Measurement 18 = 2	Measurement 19 = 2	Measurement 20 = 2
+Measurement 21 = 2	Measurement 22 = 2	Measurement 23 = 2	Measurement 24 = 2	Measurement 25 = 2
+Measurement 26 = 2	Measurement 27 = 2	Measurement 28 = 2	Measurement 29 = 2	Measurement 30 = 2
+Measurement 31 = 2	Measurement 32 = 2	Measurement 33 = 2	Measurement 34 = 2	Measurement 35 = 2
+Measurement 36 = 2	Measurement 37 = 2	Measurement 38 = 2	Measurement 39 = 2	Measurement 40 = 2
+Measurement 41 = 2	Measurement 42 = 2	Measurement 43 = 2	Measurement 44 = 2	Measurement 45 = 2
+Measurement 46 = 2	Measurement 47 = 2	Measurement 48 = 2	Measurement 49 = 2	Measurement 50 = 2
+
+POS 17
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 16
+Measurement 1 = 2	Measurement 2 = 2	Measurement 3 = 2	Measurement 4 = 1	Measurement 5 = 1
+Measurement 6 = 1	Measurement 7 = 1	Measurement 8 = 1	Measurement 9 = 1	Measurement 10 = 1
+Measurement 11 = 1	Measurement 12 = 1	Measurement 13 = 1	Measurement 14 = 1	Measurement 15 = 1
+Measurement 16 = 1	Measurement 17 = 1	Measurement 18 = 1	Measurement 19 = 1	Measurement 20 = 1
+Measurement 21 = 1	Measurement 22 = 1	Measurement 23 = 1	Measurement 24 = 1	Measurement 25 = 1
+Measurement 26 = 1	Measurement 27 = 1	Measurement 28 = 1	Measurement 29 = 1	Measurement 30 = 1
+Measurement 31 = 1	Measurement 32 = 1	Measurement 33 = 1	Measurement 34 = 1	Measurement 35 = 1
+Measurement 36 = 1	Measurement 37 = 1	Measurement 38 = 1	Measurement 39 = 1	Measurement 40 = 1
+Measurement 41 = 1	Measurement 42 = 1	Measurement 43 = 1	Measurement 44 = 1	Measurement 45 = 1
+Measurement 46 = 1	Measurement 47 = 1	Measurement 48 = 1	Measurement 49 = 1	Measurement 50 = 1
+
+POS 15
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 14
+Measurement 1 = 4	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+BOT 2
+Black
+POS 14
+Measurement 1 = 5	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 15
+Measurement 1 = 4	Measurement 2 = 5	Measurement 3 = 4	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 16
+Measurement 1 = 4	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 17
+Measurement 1 = 7	Measurement 2 = 7	Measurement 3 = 4	Measurement 4 = 4	Measurement 5 = 4
+Measurement 6 = 4	Measurement 7 = 4	Measurement 8 = 4	Measurement 9 = 4	Measurement 10 = 4
+Measurement 11 = 4	Measurement 12 = 4	Measurement 13 = 4	Measurement 14 = 4	Measurement 15 = 4
+Measurement 16 = 4	Measurement 17 = 4	Measurement 18 = 4	Measurement 19 = 4	Measurement 20 = 4
+Measurement 21 = 4	Measurement 22 = 4	Measurement 23 = 4	Measurement 24 = 4	Measurement 25 = 4
+Measurement 26 = 4	Measurement 27 = 4	Measurement 28 = 4	Measurement 29 = 4	Measurement 30 = 4
+Measurement 31 = 4	Measurement 32 = 4	Measurement 33 = 4	Measurement 34 = 4	Measurement 35 = 4
+Measurement 36 = 4	Measurement 37 = 4	Measurement 38 = 4	Measurement 39 = 4	Measurement 40 = 4
+Measurement 41 = 4	Measurement 42 = 4	Measurement 43 = 4	Measurement 44 = 4	Measurement 45 = 4
+Measurement 46 = 4	Measurement 47 = 4	Measurement 48 = 4	Measurement 49 = 4	Measurement 50 = 4
+
+POS 18
+Measurement 1 = 4	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 19
+Measurement 1 = 5	Measurement 2 = 5	Measurement 3 = 4	Measurement 4 = 4	Measurement 5 = 4
+Measurement 6 = 4	Measurement 7 = 4	Measurement 8 = 4	Measurement 9 = 4	Measurement 10 = 4
+Measurement 11 = 4	Measurement 12 = 4	Measurement 13 = 4	Measurement 14 = 4	Measurement 15 = 4
+Measurement 16 = 4	Measurement 17 = 4	Measurement 18 = 4	Measurement 19 = 4	Measurement 20 = 4
+Measurement 21 = 4	Measurement 22 = 4	Measurement 23 = 4	Measurement 24 = 4	Measurement 25 = 4
+Measurement 26 = 4	Measurement 27 = 4	Measurement 28 = 4	Measurement 29 = 4	Measurement 30 = 4
+Measurement 31 = 4	Measurement 32 = 4	Measurement 33 = 4	Measurement 34 = 4	Measurement 35 = 4
+Measurement 36 = 4	Measurement 37 = 4	Measurement 38 = 4	Measurement 39 = 4	Measurement 40 = 4
+Measurement 41 = 4	Measurement 42 = 4	Measurement 43 = 4	Measurement 44 = 4	Measurement 45 = 4
+Measurement 46 = 4	Measurement 47 = 4	Measurement 48 = 4	Measurement 49 = 4	Measurement 50 = 4
+
+POS 20
+Measurement 1 = 6	Measurement 2 = 6	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 21
+Measurement 1 = 4	Measurement 2 = 4	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 22
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 23
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 2	Measurement 5 = 2
+Measurement 6 = 2	Measurement 7 = 3	Measurement 8 = 2	Measurement 9 = 2	Measurement 10 = 3
+Measurement 11 = 2	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 2
+Measurement 21 = 3	Measurement 22 = 2	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 2	Measurement 28 = 2	Measurement 29 = 2	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 2	Measurement 35 = 2
+Measurement 36 = 2	Measurement 37 = 2	Measurement 38 = 3	Measurement 39 = 2	Measurement 40 = 3
+Measurement 41 = 2	Measurement 42 = 3	Measurement 43 = 2	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 2	Measurement 49 = 2	Measurement 50 = 2
+
+POS 24
+Measurement 1 = 7	Measurement 2 = 7	Measurement 3 = 6	Measurement 4 = 6	Measurement 5 = 5
+Measurement 6 = 5	Measurement 7 = 4	Measurement 8 = 5	Measurement 9 = 4	Measurement 10 = 5
+Measurement 11 = 4	Measurement 12 = 5	Measurement 13 = 5	Measurement 14 = 5	Measurement 15 = 5
+Measurement 16 = 4	Measurement 17 = 5	Measurement 18 = 5	Measurement 19 = 5	Measurement 20 = 5
+Measurement 21 = 4	Measurement 22 = 5	Measurement 23 = 4	Measurement 24 = 5	Measurement 25 = 5
+Measurement 26 = 5	Measurement 27 = 5	Measurement 28 = 4	Measurement 29 = 5	Measurement 30 = 4
+Measurement 31 = 5	Measurement 32 = 4	Measurement 33 = 5	Measurement 34 = 5	Measurement 35 = 5
+Measurement 36 = 5	Measurement 37 = 4	Measurement 38 = 5	Measurement 39 = 4	Measurement 40 = 5
+Measurement 41 = 4	Measurement 42 = 5	Measurement 43 = 5	Measurement 44 = 5	Measurement 45 = 5
+Measurement 46 = 4	Measurement 47 = 5	Measurement 48 = 4	Measurement 49 = 5	Measurement 50 = 4
+
+POS 25
+Measurement 1 = 6	Measurement 2 = 6	Measurement 3 = 4	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+POS 26
+Measurement 1 = 3	Measurement 2 = 3	Measurement 3 = 3	Measurement 4 = 3	Measurement 5 = 3
+Measurement 6 = 3	Measurement 7 = 3	Measurement 8 = 3	Measurement 9 = 3	Measurement 10 = 3
+Measurement 11 = 3	Measurement 12 = 3	Measurement 13 = 3	Measurement 14 = 3	Measurement 15 = 3
+Measurement 16 = 3	Measurement 17 = 3	Measurement 18 = 3	Measurement 19 = 3	Measurement 20 = 3
+Measurement 21 = 3	Measurement 22 = 3	Measurement 23 = 3	Measurement 24 = 3	Measurement 25 = 3
+Measurement 26 = 3	Measurement 27 = 3	Measurement 28 = 3	Measurement 29 = 3	Measurement 30 = 3
+Measurement 31 = 3	Measurement 32 = 3	Measurement 33 = 3	Measurement 34 = 3	Measurement 35 = 3
+Measurement 36 = 3	Measurement 37 = 3	Measurement 38 = 3	Measurement 39 = 3	Measurement 40 = 3
+Measurement 41 = 3	Measurement 42 = 3	Measurement 43 = 3	Measurement 44 = 3	Measurement 45 = 3
+Measurement 46 = 3	Measurement 47 = 3	Measurement 48 = 3	Measurement 49 = 3	Measurement 50 = 3
+
+BOT 2
+Grey
+POS 26
+Measurement 1 = 27	Measurement 2 = 29	Measurement 3 = 29	Measurement 4 = 29	Measurement 5 = 27
+Measurement 6 = 27	Measurement 7 = 27	Measurement 8 = 29	Measurement 9 = 29	Measurement 10 = 29
+Measurement 11 = 29	Measurement 12 = 29	Measurement 13 = 29	Measurement 14 = 29	Measurement 15 = 29
+Measurement 16 = 29	Measurement 17 = 29	Measurement 18 = 29	Measurement 19 = 29	Measurement 20 = 29
+Measurement 21 = 29	Measurement 22 = 29	Measurement 23 = 29	Measurement 24 = 29	Measurement 25 = 29
+Measurement 26 = 29	Measurement 27 = 29	Measurement 28 = 29	Measurement 29 = 29	Measurement 30 = 29
+Measurement 31 = 29	Measurement 32 = 29	Measurement 33 = 29	Measurement 34 = 29	Measurement 35 = 29
+Measurement 36 = 29	Measurement 37 = 29	Measurement 38 = 29	Measurement 39 = 29	Measurement 40 = 29
+Measurement 41 = 29	Measurement 42 = 29	Measurement 43 = 29	Measurement 44 = 29	Measurement 45 = 29
+Measurement 46 = 29	Measurement 47 = 29	Measurement 48 = 29	Measurement 49 = 29	Measurement 50 = 29
+
+POS 25
+Measurement 1 = 39	Measurement 2 = 36	Measurement 3 = 35	Measurement 4 = 37	Measurement 5 = 38
+Measurement 6 = 39	Measurement 7 = 38	Measurement 8 = 39	Measurement 9 = 38	Measurement 10 = 39
+Measurement 11 = 38	Measurement 12 = 39	Measurement 13 = 38	Measurement 14 = 39	Measurement 15 = 38
+Measurement 16 = 39	Measurement 17 = 38	Measurement 18 = 39	Measurement 19 = 38	Measurement 20 = 39
+Measurement 21 = 38	Measurement 22 = 39	Measurement 23 = 38	Measurement 24 = 38	Measurement 25 = 38
+Measurement 26 = 39	Measurement 27 = 38	Measurement 28 = 38	Measurement 29 = 38	Measurement 30 = 39
+Measurement 31 = 38	Measurement 32 = 38	Measurement 33 = 38	Measurement 34 = 38	Measurement 35 = 38
+Measurement 36 = 38	Measurement 37 = 38	Measurement 38 = 38	Measurement 39 = 38	Measurement 40 = 38
+Measurement 41 = 38	Measurement 42 = 36	Measurement 43 = 33	Measurement 44 = 32	Measurement 45 = 31
+Measurement 46 = 31	Measurement 47 = 31	Measurement 48 = 34	Measurement 49 = 34	Measurement 50 = 35
+
+POS 24
+Measurement 1 = 45	Measurement 2 = 38	Measurement 3 = 38	Measurement 4 = 38	Measurement 5 = 38
+Measurement 6 = 38	Measurement 7 = 38	Measurement 8 = 38	Measurement 9 = 38	Measurement 10 = 38
+Measurement 11 = 38	Measurement 12 = 38	Measurement 13 = 38	Measurement 14 = 37	Measurement 15 = 36
+Measurement 16 = 37	Measurement 17 = 37	Measurement 18 = 37	Measurement 19 = 37	Measurement 20 = 37
+Measurement 21 = 37	Measurement 22 = 37	Measurement 23 = 37	Measurement 24 = 37	Measurement 25 = 38
+Measurement 26 = 38	Measurement 27 = 37	Measurement 28 = 37	Measurement 29 = 35	Measurement 30 = 34
+Measurement 31 = 33	Measurement 32 = 32	Measurement 33 = 32	Measurement 34 = 33	Measurement 35 = 33
+Measurement 36 = 33	Measurement 37 = 34	Measurement 38 = 37	Measurement 39 = 40	Measurement 40 = 41
+Measurement 41 = 41	Measurement 42 = 41	Measurement 43 = 41	Measurement 44 = 41	Measurement 45 = 41
+Measurement 46 = 41	Measurement 47 = 41	Measurement 48 = 41	Measurement 49 = 41	Measurement 50 = 41
+
+POS 23
+Measurement 1 = 45	Measurement 2 = 57	Measurement 3 = 44	Measurement 4 = 43	Measurement 5 = 44
+Measurement 6 = 37	Measurement 7 = 42	Measurement 8 = 39	Measurement 9 = 47	Measurement 10 = 35
+Measurement 11 = 36	Measurement 12 = 44	Measurement 13 = 36	Measurement 14 = 47	Measurement 15 = 37
+Measurement 16 = 43	Measurement 17 = 36	Measurement 18 = 35	Measurement 19 = 47	Measurement 20 = 36
+Measurement 21 = 40	Measurement 22 = 44	Measurement 23 = 48	Measurement 24 = 40	Measurement 25 = 39
+Measurement 26 = 44	Measurement 27 = 45	Measurement 28 = 46	Measurement 29 = 45	Measurement 30 = 46
+Measurement 31 = 40	Measurement 32 = 42	Measurement 33 = 44	Measurement 34 = 37	Measurement 35 = 47
+Measurement 36 = 41	Measurement 37 = 43	Measurement 38 = 46	Measurement 39 = 45	Measurement 40 = 46
+Measurement 41 = 41	Measurement 42 = 43	Measurement 43 = 41	Measurement 44 = 39	Measurement 45 = 46
+Measurement 46 = 48	Measurement 47 = 40	Measurement 48 = 44	Measurement 49 = 44	Measurement 50 = 44
+
+POS 22
+Measurement 1 = 42	Measurement 2 = 55	Measurement 3 = 54	Measurement 4 = 55	Measurement 5 = 54
+Measurement 6 = 55	Measurement 7 = 53	Measurement 8 = 57	Measurement 9 = 57	Measurement 10 = 58
+Measurement 11 = 57	Measurement 12 = 57	Measurement 13 = 57	Measurement 14 = 57	Measurement 15 = 56
+Measurement 16 = 57	Measurement 17 = 57	Measurement 18 = 57	Measurement 19 = 56	Measurement 20 = 57
+Measurement 21 = 56	Measurement 22 = 57	Measurement 23 = 56	Measurement 24 = 57	Measurement 25 = 56
+Measurement 26 = 57	Measurement 27 = 56	Measurement 28 = 57	Measurement 29 = 56	Measurement 30 = 57
+Measurement 31 = 56	Measurement 32 = 57	Measurement 33 = 56	Measurement 34 = 57	Measurement 35 = 56
+Measurement 36 = 56	Measurement 37 = 56	Measurement 38 = 56	Measurement 39 = 56	Measurement 40 = 57
+Measurement 41 = 56	Measurement 42 = 56	Measurement 43 = 56	Measurement 44 = 57	Measurement 45 = 56
+Measurement 46 = 57	Measurement 47 = 56	Measurement 48 = 57	Measurement 49 = 56	Measurement 50 = 56
+
+POS 21
+Measurement 1 = 42	Measurement 2 = 45	Measurement 3 = 45	Measurement 4 = 45	Measurement 5 = 45
+Measurement 6 = 45	Measurement 7 = 45	Measurement 8 = 46	Measurement 9 = 45	Measurement 10 = 45
+Measurement 11 = 45	Measurement 12 = 45	Measurement 13 = 45	Measurement 14 = 45	Measurement 15 = 44
+Measurement 16 = 40	Measurement 17 = 40	Measurement 18 = 42	Measurement 19 = 43	Measurement 20 = 43
+Measurement 21 = 41	Measurement 22 = 43	Measurement 23 = 44	Measurement 24 = 44	Measurement 25 = 45
+Measurement 26 = 45	Measurement 27 = 45	Measurement 28 = 45	Measurement 29 = 45	Measurement 30 = 45
+Measurement 31 = 45	Measurement 32 = 45	Measurement 33 = 45	Measurement 34 = 45	Measurement 35 = 45
+Measurement 36 = 45	Measurement 37 = 45	Measurement 38 = 45	Measurement 39 = 45	Measurement 40 = 45
+Measurement 41 = 45	Measurement 42 = 45	Measurement 43 = 45	Measurement 44 = 45	Measurement 45 = 45
+Measurement 46 = 45	Measurement 47 = 45	Measurement 48 = 45	Measurement 49 = 45	Measurement 50 = 46
+
+POS 20
+Measurement 1 = 69	Measurement 2 = 47	Measurement 3 = 56	Measurement 4 = 61	Measurement 5 = 50
+Measurement 6 = 52	Measurement 7 = 60	Measurement 8 = 55	Measurement 9 = 46	Measurement 10 = 49
+Measurement 11 = 50	Measurement 12 = 53	Measurement 13 = 46	Measurement 14 = 49	Measurement 15 = 49
+Measurement 16 = 42	Measurement 17 = 46	Measurement 18 = 52	Measurement 19 = 53	Measurement 20 = 49
+Measurement 21 = 47	Measurement 22 = 52	Measurement 23 = 49	Measurement 24 = 54	Measurement 25 = 49
+Measurement 26 = 62	Measurement 27 = 48	Measurement 28 = 52	Measurement 29 = 51	Measurement 30 = 55
+Measurement 31 = 60	Measurement 32 = 53	Measurement 33 = 61	Measurement 34 = 47	Measurement 35 = 45
+Measurement 36 = 52	Measurement 37 = 44	Measurement 38 = 48	Measurement 39 = 48	Measurement 40 = 53
+Measurement 41 = 48	Measurement 42 = 41	Measurement 43 = 49	Measurement 44 = 46	Measurement 45 = 53
+Measurement 46 = 49	Measurement 47 = 57	Measurement 48 = 48	Measurement 49 = 47	Measurement 50 = 49
+
+POS 19
+Measurement 1 = 89	Measurement 2 = 91	Measurement 3 = 90	Measurement 4 = 91	Measurement 5 = 90
+Measurement 6 = 91	Measurement 7 = 94	Measurement 8 = 96	Measurement 9 = 93	Measurement 10 = 92
+Measurement 11 = 91	Measurement 12 = 91	Measurement 13 = 90	Measurement 14 = 92	Measurement 15 = 94
+Measurement 16 = 94	Measurement 17 = 92	Measurement 18 = 94	Measurement 19 = 93	Measurement 20 = 95
+Measurement 21 = 100	Measurement 22 = 103	Measurement 23 = 102	Measurement 24 = 102	Measurement 25 = 101
+Measurement 26 = 102	Measurement 27 = 100	Measurement 28 = 100	Measurement 29 = 98	Measurement 30 = 99
+Measurement 31 = 99	Measurement 32 = 99	Measurement 33 = 98	Measurement 34 = 100	Measurement 35 = 99
+Measurement 36 = 100	Measurement 37 = 101	Measurement 38 = 102	Measurement 39 = 101	Measurement 40 = 101
+Measurement 41 = 99	Measurement 42 = 98	Measurement 43 = 91	Measurement 44 = 86	Measurement 45 = 85
+Measurement 46 = 86	Measurement 47 = 85	Measurement 48 = 87	Measurement 49 = 85	Measurement 50 = 85
+
+POS 18
+Measurement 1 = 68	Measurement 2 = 64	Measurement 3 = 64	Measurement 4 = 65	Measurement 5 = 65
+Measurement 6 = 65	Measurement 7 = 65	Measurement 8 = 66	Measurement 9 = 65	Measurement 10 = 66
+Measurement 11 = 66	Measurement 12 = 72	Measurement 13 = 75	Measurement 14 = 76	Measurement 15 = 75
+Measurement 16 = 75	Measurement 17 = 76	Measurement 18 = 75	Measurement 19 = 74	Measurement 20 = 75
+Measurement 21 = 74	Measurement 22 = 73	Measurement 23 = 70	Measurement 24 = 68	Measurement 25 = 66
+Measurement 26 = 64	Measurement 27 = 63	Measurement 28 = 63	Measurement 29 = 63	Measurement 30 = 63
+Measurement 31 = 63	Measurement 32 = 63	Measurement 33 = 63	Measurement 34 = 63	Measurement 35 = 63
+Measurement 36 = 63	Measurement 37 = 63	Measurement 38 = 63	Measurement 39 = 63	Measurement 40 = 63
+Measurement 41 = 66	Measurement 42 = 66	Measurement 43 = 68	Measurement 44 = 71	Measurement 45 = 71
+Measurement 46 = 72	Measurement 47 = 73	Measurement 48 = 74	Measurement 49 = 74	Measurement 50 = 73
+
+POS 17
+Measurement 1 = 72	Measurement 2 = 62	Measurement 3 = 66	Measurement 4 = 67	Measurement 5 = 67
+Measurement 6 = 67	Measurement 7 = 62	Measurement 8 = 61	Measurement 9 = 60	Measurement 10 = 61
+Measurement 11 = 60	Measurement 12 = 60	Measurement 13 = 59	Measurement 14 = 60	Measurement 15 = 61
+Measurement 16 = 60	Measurement 17 = 63	Measurement 18 = 67	Measurement 19 = 64	Measurement 20 = 59
+Measurement 21 = 56	Measurement 22 = 56	Measurement 23 = 55	Measurement 24 = 50	Measurement 25 = 48
+Measurement 26 = 48	Measurement 27 = 51	Measurement 28 = 52	Measurement 29 = 59	Measurement 30 = 59
+Measurement 31 = 60	Measurement 32 = 59	Measurement 33 = 59	Measurement 34 = 59	Measurement 35 = 60
+Measurement 36 = 59	Measurement 37 = 60	Measurement 38 = 59	Measurement 39 = 60	Measurement 40 = 59
+Measurement 41 = 59	Measurement 42 = 59	Measurement 43 = 60	Measurement 44 = 59	Measurement 45 = 60
+Measurement 46 = 59	Measurement 47 = 59	Measurement 48 = 59	Measurement 49 = 60	Measurement 50 = 59
+
+POS 16
+Measurement 1 = 29	Measurement 2 = 32	Measurement 3 = 33	Measurement 4 = 34	Measurement 5 = 34
+Measurement 6 = 34	Measurement 7 = 34	Measurement 8 = 33	Measurement 9 = 32	Measurement 10 = 32
+Measurement 11 = 33	Measurement 12 = 33	Measurement 13 = 34	Measurement 14 = 36	Measurement 15 = 38
+Measurement 16 = 39	Measurement 17 = 40	Measurement 18 = 39	Measurement 19 = 40	Measurement 20 = 40
+Measurement 21 = 40	Measurement 22 = 40	Measurement 23 = 40	Measurement 24 = 39	Measurement 25 = 39
+Measurement 26 = 39	Measurement 27 = 39	Measurement 28 = 39	Measurement 29 = 39	Measurement 30 = 39
+Measurement 31 = 40	Measurement 32 = 40	Measurement 33 = 40	Measurement 34 = 40	Measurement 35 = 40
+Measurement 36 = 40	Measurement 37 = 40	Measurement 38 = 40	Measurement 39 = 40	Measurement 40 = 40
+Measurement 41 = 40	Measurement 42 = 40	Measurement 43 = 40	Measurement 44 = 40	Measurement 45 = 40
+Measurement 46 = 40	Measurement 47 = 40	Measurement 48 = 40	Measurement 49 = 40	Measurement 50 = 40
+
+POS 15
+Measurement 1 = 52	Measurement 2 = 50	Measurement 3 = 51	Measurement 4 = 50	Measurement 5 = 51
+Measurement 6 = 50	Measurement 7 = 51	Measurement 8 = 51	Measurement 9 = 51	Measurement 10 = 51
+Measurement 11 = 51	Measurement 12 = 51	Measurement 13 = 51	Measurement 14 = 51	Measurement 15 = 51
+Measurement 16 = 51	Measurement 17 = 51	Measurement 18 = 51	Measurement 19 = 51	Measurement 20 = 51
+Measurement 21 = 51	Measurement 22 = 50	Measurement 23 = 47	Measurement 24 = 48	Measurement 25 = 48
+Measurement 26 = 48	Measurement 27 = 50	Measurement 28 = 50	Measurement 29 = 50	Measurement 30 = 50
+Measurement 31 = 51	Measurement 32 = 50	Measurement 33 = 51	Measurement 34 = 48	Measurement 35 = 47
+Measurement 36 = 48	Measurement 37 = 49	Measurement 38 = 48	Measurement 39 = 49	Measurement 40 = 48
+Measurement 41 = 49	Measurement 42 = 48	Measurement 43 = 49	Measurement 44 = 48	Measurement 45 = 49
+Measurement 46 = 49	Measurement 47 = 49	Measurement 48 = 49	Measurement 49 = 50	Measurement 50 = 51
+
+POS 14
+Measurement 1 = 51	Measurement 2 = 55	Measurement 3 = 56	Measurement 4 = 55	Measurement 5 = 56
+Measurement 6 = 55	Measurement 7 = 56	Measurement 8 = 55	Measurement 9 = 55	Measurement 10 = 55
+Measurement 11 = 55	Measurement 12 = 55	Measurement 13 = 55	Measurement 14 = 55	Measurement 15 = 55
+Measurement 16 = 55	Measurement 17 = 55	Measurement 18 = 55	Measurement 19 = 55	Measurement 20 = 55
+Measurement 21 = 55	Measurement 22 = 55	Measurement 23 = 55	Measurement 24 = 55	Measurement 25 = 55
+Measurement 26 = 55	Measurement 27 = 55	Measurement 28 = 55	Measurement 29 = 55	Measurement 30 = 54
+Measurement 31 = 55	Measurement 32 = 55	Measurement 33 = 56	Measurement 34 = 55	Measurement 35 = 56
+Measurement 36 = 56	Measurement 37 = 54	Measurement 38 = 52	Measurement 39 = 53	Measurement 40 = 53
+Measurement 41 = 53	Measurement 42 = 52	Measurement 43 = 53	Measurement 44 = 53	Measurement 45 = 53
+Measurement 46 = 53	Measurement 47 = 53	Measurement 48 = 53	Measurement 49 = 54	Measurement 50 = 55
+
+BOT 2
+White
+POS 14
+Measurement 1 = 467	Measurement 2 = 441	Measurement 3 = 380	Measurement 4 = 482	Measurement 5 = 369
+Measurement 6 = 466	Measurement 7 = 412	Measurement 8 = 439	Measurement 9 = 446	Measurement 10 = 397
+Measurement 11 = 485	Measurement 12 = 369	Measurement 13 = 462	Measurement 14 = 406	Measurement 15 = 451
+Measurement 16 = 439	Measurement 17 = 410	Measurement 18 = 480	Measurement 19 = 370	Measurement 20 = 465
+Measurement 21 = 394	Measurement 22 = 450	Measurement 23 = 412	Measurement 24 = 417	Measurement 25 = 448
+Measurement 26 = 376	Measurement 27 = 446	Measurement 28 = 364	Measurement 29 = 456	Measurement 30 = 383
+Measurement 31 = 417	Measurement 32 = 426	Measurement 33 = 379	Measurement 34 = 446	Measurement 35 = 358
+Measurement 36 = 455	Measurement 37 = 361	Measurement 38 = 414	Measurement 39 = 406	Measurement 40 = 381
+Measurement 41 = 439	Measurement 42 = 348	Measurement 43 = 456	Measurement 44 = 358	Measurement 45 = 430
+Measurement 46 = 391	Measurement 47 = 383	Measurement 48 = 436	Measurement 49 = 348	Measurement 50 = 456
+
+POS 15
+Measurement 1 = 392	Measurement 2 = 340	Measurement 3 = 416	Measurement 4 = 362	Measurement 5 = 376
+Measurement 6 = 397	Measurement 7 = 326	Measurement 8 = 421	Measurement 9 = 330	Measurement 10 = 416
+Measurement 11 = 364	Measurement 12 = 391	Measurement 13 = 392	Measurement 14 = 350	Measurement 15 = 418
+Measurement 16 = 343	Measurement 17 = 428	Measurement 18 = 350	Measurement 19 = 409	Measurement 20 = 389
+Measurement 21 = 372	Measurement 22 = 411	Measurement 23 = 349	Measurement 24 = 431	Measurement 25 = 340
+Measurement 26 = 410	Measurement 27 = 383	Measurement 28 = 391	Measurement 29 = 407	Measurement 30 = 362
+Measurement 31 = 444	Measurement 32 = 345	Measurement 33 = 427	Measurement 34 = 375	Measurement 35 = 401
+Measurement 36 = 409	Measurement 37 = 375	Measurement 38 = 448	Measurement 39 = 343	Measurement 40 = 442
+Measurement 41 = 369	Measurement 42 = 412	Measurement 43 = 403	Measurement 44 = 384	Measurement 45 = 446
+Measurement 46 = 349	Measurement 47 = 445	Measurement 48 = 368	Measurement 49 = 425	Measurement 50 = 391
+
+POS 16
+Measurement 1 = 347	Measurement 2 = 382	Measurement 3 = 377	Measurement 4 = 377	Measurement 5 = 374
+Measurement 6 = 373	Measurement 7 = 371	Measurement 8 = 369	Measurement 9 = 362	Measurement 10 = 360
+Measurement 11 = 358	Measurement 12 = 354	Measurement 13 = 350	Measurement 14 = 349	Measurement 15 = 344
+Measurement 16 = 344	Measurement 17 = 343	Measurement 18 = 344	Measurement 19 = 342	Measurement 20 = 343
+Measurement 21 = 341	Measurement 22 = 340	Measurement 23 = 333	Measurement 24 = 335	Measurement 25 = 335
+Measurement 26 = 337	Measurement 27 = 336	Measurement 28 = 338	Measurement 29 = 336	Measurement 30 = 340
+Measurement 31 = 340	Measurement 32 = 340	Measurement 33 = 336	Measurement 34 = 336	Measurement 35 = 335
+Measurement 36 = 336	Measurement 37 = 335	Measurement 38 = 336	Measurement 39 = 335	Measurement 40 = 335
+Measurement 41 = 336	Measurement 42 = 336	Measurement 43 = 335	Measurement 44 = 337	Measurement 45 = 336
+Measurement 46 = 336	Measurement 47 = 337	Measurement 48 = 340	Measurement 49 = 339	Measurement 50 = 341
+
+POS 17
+Measurement 1 = 706	Measurement 2 = 644	Measurement 3 = 644	Measurement 4 = 643	Measurement 5 = 656
+Measurement 6 = 664	Measurement 7 = 671	Measurement 8 = 679	Measurement 9 = 679	Measurement 10 = 677
+Measurement 11 = 676	Measurement 12 = 675	Measurement 13 = 678	Measurement 14 = 681	Measurement 15 = 687
+Measurement 16 = 691	Measurement 17 = 695	Measurement 18 = 695	Measurement 19 = 692	Measurement 20 = 687
+Measurement 21 = 693	Measurement 22 = 704	Measurement 23 = 711	Measurement 24 = 708	Measurement 25 = 712
+Measurement 26 = 714	Measurement 27 = 717	Measurement 28 = 720	Measurement 29 = 722	Measurement 30 = 724
+Measurement 31 = 721	Measurement 32 = 714	Measurement 33 = 716	Measurement 34 = 709	Measurement 35 = 703
+Measurement 36 = 692	Measurement 37 = 678	Measurement 38 = 668	Measurement 39 = 669	Measurement 40 = 661
+Measurement 41 = 662	Measurement 42 = 659	Measurement 43 = 649	Measurement 44 = 641	Measurement 45 = 647
+Measurement 46 = 648	Measurement 47 = 642	Measurement 48 = 643	Measurement 49 = 656	Measurement 50 = 666
+
+POS 18
+Measurement 1 = 415	Measurement 2 = 511	Measurement 3 = 459	Measurement 4 = 458	Measurement 5 = 458
+Measurement 6 = 458	Measurement 7 = 458	Measurement 8 = 466	Measurement 9 = 466	Measurement 10 = 468
+Measurement 11 = 467	Measurement 12 = 467	Measurement 13 = 465	Measurement 14 = 475	Measurement 15 = 477
+Measurement 16 = 481	Measurement 17 = 483	Measurement 18 = 487	Measurement 19 = 485	Measurement 20 = 487
+Measurement 21 = 485	Measurement 22 = 486	Measurement 23 = 488	Measurement 24 = 490	Measurement 25 = 490
+Measurement 26 = 494	Measurement 27 = 494	Measurement 28 = 497	Measurement 29 = 492	Measurement 30 = 491
+Measurement 31 = 486	Measurement 32 = 482	Measurement 33 = 479	Measurement 34 = 476	Measurement 35 = 465
+Measurement 36 = 458	Measurement 37 = 454	Measurement 38 = 456	Measurement 39 = 454	Measurement 40 = 453
+Measurement 41 = 452	Measurement 42 = 448	Measurement 43 = 445	Measurement 44 = 445	Measurement 45 = 439
+Measurement 46 = 432	Measurement 47 = 430	Measurement 48 = 432	Measurement 49 = 432	Measurement 50 = 436
+
+POS 19
+Measurement 1 = 715	Measurement 2 = 659	Measurement 3 = 679	Measurement 4 = 612	Measurement 5 = 661
+Measurement 6 = 667	Measurement 7 = 673	Measurement 8 = 678	Measurement 9 = 676	Measurement 10 = 686
+Measurement 11 = 689	Measurement 12 = 692	Measurement 13 = 693	Measurement 14 = 698	Measurement 15 = 696
+Measurement 16 = 698	Measurement 17 = 697	Measurement 18 = 702	Measurement 19 = 705	Measurement 20 = 709
+Measurement 21 = 711	Measurement 22 = 707	Measurement 23 = 704	Measurement 24 = 702	Measurement 25 = 694
+Measurement 26 = 694	Measurement 27 = 692	Measurement 28 = 681	Measurement 29 = 670	Measurement 30 = 679
+Measurement 31 = 674	Measurement 32 = 669	Measurement 33 = 654	Measurement 34 = 650	Measurement 35 = 643
+Measurement 36 = 644	Measurement 37 = 643	Measurement 38 = 632	Measurement 39 = 622	Measurement 40 = 627
+Measurement 41 = 629	Measurement 42 = 635	Measurement 43 = 625	Measurement 44 = 631	Measurement 45 = 646
+Measurement 46 = 655	Measurement 47 = 654	Measurement 48 = 660	Measurement 49 = 660	Measurement 50 = 659
+
+POS 20
+Measurement 1 = 714	Measurement 2 = 571	Measurement 3 = 714	Measurement 4 = 580	Measurement 5 = 686
+Measurement 6 = 589	Measurement 7 = 635	Measurement 8 = 659	Measurement 9 = 575	Measurement 10 = 669
+Measurement 11 = 529	Measurement 12 = 689	Measurement 13 = 546	Measurement 14 = 627	Measurement 15 = 628
+Measurement 16 = 587	Measurement 17 = 664	Measurement 18 = 546	Measurement 19 = 692	Measurement 20 = 570
+Measurement 21 = 667	Measurement 22 = 605	Measurement 23 = 608	Measurement 24 = 663	Measurement 25 = 570
+Measurement 26 = 690	Measurement 27 = 582	Measurement 28 = 672	Measurement 29 = 601	Measurement 30 = 641
+Measurement 31 = 647	Measurement 32 = 585	Measurement 33 = 689	Measurement 34 = 574	Measurement 35 = 713
+Measurement 36 = 598	Measurement 37 = 691	Measurement 38 = 632	Measurement 39 = 607	Measurement 40 = 697
+Measurement 41 = 576	Measurement 42 = 720	Measurement 43 = 587	Measurement 44 = 709	Measurement 45 = 631
+Measurement 46 = 636	Measurement 47 = 688	Measurement 48 = 580	Measurement 49 = 734	Measurement 50 = 571
+
+POS 21
+Measurement 1 = 435	Measurement 2 = 503	Measurement 3 = 507	Measurement 4 = 506	Measurement 5 = 507
+Measurement 6 = 504	Measurement 7 = 508	Measurement 8 = 505	Measurement 9 = 506	Measurement 10 = 503
+Measurement 11 = 503	Measurement 12 = 502	Measurement 13 = 504	Measurement 14 = 499	Measurement 15 = 499
+Measurement 16 = 497	Measurement 17 = 499	Measurement 18 = 498	Measurement 19 = 499	Measurement 20 = 484
+Measurement 21 = 472	Measurement 22 = 467	Measurement 23 = 469	Measurement 24 = 464	Measurement 25 = 462
+Measurement 26 = 459	Measurement 27 = 462	Measurement 28 = 460	Measurement 29 = 461	Measurement 30 = 459
+Measurement 31 = 462	Measurement 32 = 459	Measurement 33 = 458	Measurement 34 = 455	Measurement 35 = 455
+Measurement 36 = 442	Measurement 37 = 443	Measurement 38 = 443	Measurement 39 = 446	Measurement 40 = 446
+Measurement 41 = 450	Measurement 42 = 449	Measurement 43 = 451	Measurement 44 = 449	Measurement 45 = 450
+Measurement 46 = 446	Measurement 47 = 446	Measurement 48 = 445	Measurement 49 = 445	Measurement 50 = 445
+
+POS 22
+Measurement 1 = 570	Measurement 2 = 566	Measurement 3 = 493	Measurement 4 = 596	Measurement 5 = 492
+Measurement 6 = 587	Measurement 7 = 519	Measurement 8 = 559	Measurement 9 = 551	Measurement 10 = 495
+Measurement 11 = 589	Measurement 12 = 491	Measurement 13 = 607	Measurement 14 = 508	Measurement 15 = 586
+Measurement 16 = 548	Measurement 17 = 520	Measurement 18 = 594	Measurement 19 = 496	Measurement 20 = 621
+Measurement 21 = 496	Measurement 22 = 604	Measurement 23 = 544	Measurement 24 = 545	Measurement 25 = 580
+Measurement 26 = 498	Measurement 27 = 632	Measurement 28 = 481	Measurement 29 = 604	Measurement 30 = 537
+Measurement 31 = 565	Measurement 32 = 580	Measurement 33 = 514	Measurement 34 = 634	Measurement 35 = 481
+Measurement 36 = 607	Measurement 37 = 529	Measurement 38 = 572	Measurement 39 = 580	Measurement 40 = 530
+Measurement 41 = 624	Measurement 42 = 481	Measurement 43 = 610	Measurement 44 = 520	Measurement 45 = 583
+Measurement 46 = 561	Measurement 47 = 540	Measurement 48 = 609	Measurement 49 = 488	Measurement 50 = 592
+
+POS 23
+Measurement 1 = 375	Measurement 2 = 307	Measurement 3 = 404	Measurement 4 = 320	Measurement 5 = 350
+Measurement 6 = 349	Measurement 7 = 348	Measurement 8 = 349	Measurement 9 = 333	Measurement 10 = 383
+Measurement 11 = 347	Measurement 12 = 344	Measurement 13 = 345	Measurement 14 = 343	Measurement 15 = 354
+Measurement 16 = 354	Measurement 17 = 354	Measurement 18 = 352	Measurement 19 = 353	Measurement 20 = 357
+Measurement 21 = 360	Measurement 22 = 358	Measurement 23 = 360	Measurement 24 = 359	Measurement 25 = 359
+Measurement 26 = 358	Measurement 27 = 357	Measurement 28 = 358	Measurement 29 = 360	Measurement 30 = 362
+Measurement 31 = 363	Measurement 32 = 363	Measurement 33 = 365	Measurement 34 = 366	Measurement 35 = 366
+Measurement 36 = 365	Measurement 37 = 366	Measurement 38 = 366	Measurement 39 = 366	Measurement 40 = 366
+Measurement 41 = 365	Measurement 42 = 365	Measurement 43 = 364	Measurement 44 = 364	Measurement 45 = 365
+Measurement 46 = 370	Measurement 47 = 374	Measurement 48 = 377	Measurement 49 = 379	Measurement 50 = 381
+
+POS 24
+Measurement 1 = 211	Measurement 2 = 233	Measurement 3 = 224	Measurement 4 = 220	Measurement 5 = 219
+Measurement 6 = 218	Measurement 7 = 215	Measurement 8 = 215	Measurement 9 = 216	Measurement 10 = 216
+Measurement 11 = 216	Measurement 12 = 218	Measurement 13 = 217	Measurement 14 = 215	Measurement 15 = 212
+Measurement 16 = 211	Measurement 17 = 206	Measurement 18 = 207	Measurement 19 = 208	Measurement 20 = 210
+Measurement 21 = 209	Measurement 22 = 209	Measurement 23 = 209	Measurement 24 = 209	Measurement 25 = 208
+Measurement 26 = 208	Measurement 27 = 208	Measurement 28 = 208	Measurement 29 = 208	Measurement 30 = 208
+Measurement 31 = 209	Measurement 32 = 208	Measurement 33 = 208	Measurement 34 = 208	Measurement 35 = 208
+Measurement 36 = 208	Measurement 37 = 208	Measurement 38 = 209	Measurement 39 = 210	Measurement 40 = 211
+Measurement 41 = 210	Measurement 42 = 210	Measurement 43 = 210	Measurement 44 = 212	Measurement 45 = 212
+Measurement 46 = 212	Measurement 47 = 211	Measurement 48 = 208	Measurement 49 = 208	Measurement 50 = 209
+
+POS 25
+Measurement 1 = 193	Measurement 2 = 203	Measurement 3 = 203	Measurement 4 = 205	Measurement 5 = 205
+Measurement 6 = 205	Measurement 7 = 205	Measurement 8 = 205	Measurement 9 = 205	Measurement 10 = 206
+Measurement 11 = 205	Measurement 12 = 205	Measurement 13 = 204	Measurement 14 = 203	Measurement 15 = 202
+Measurement 16 = 203	Measurement 17 = 202	Measurement 18 = 203	Measurement 19 = 203	Measurement 20 = 208
+Measurement 21 = 207	Measurement 22 = 211	Measurement 23 = 211	Measurement 24 = 211	Measurement 25 = 211
+Measurement 26 = 212	Measurement 27 = 211	Measurement 28 = 212	Measurement 29 = 212	Measurement 30 = 212
+Measurement 31 = 212	Measurement 32 = 213	Measurement 33 = 215	Measurement 34 = 216	Measurement 35 = 217
+Measurement 36 = 217	Measurement 37 = 217	Measurement 38 = 217	Measurement 39 = 218	Measurement 40 = 217
+Measurement 41 = 218	Measurement 42 = 217	Measurement 43 = 218	Measurement 44 = 220	Measurement 45 = 222
+Measurement 46 = 215	Measurement 47 = 216	Measurement 48 = 216	Measurement 49 = 217	Measurement 50 = 217
+
+POS 26
+Measurement 1 = 210	Measurement 2 = 200	Measurement 3 = 233	Measurement 4 = 175	Measurement 5 = 212
+Measurement 6 = 211	Measurement 7 = 200	Measurement 8 = 210	Measurement 9 = 196	Measurement 10 = 212
+Measurement 11 = 198	Measurement 12 = 206	Measurement 13 = 204	Measurement 14 = 201	Measurement 15 = 203
+Measurement 16 = 193	Measurement 17 = 201	Measurement 18 = 195	Measurement 19 = 203	Measurement 20 = 194
+Measurement 21 = 202	Measurement 22 = 202	Measurement 23 = 205	Measurement 24 = 204	Measurement 25 = 195
+Measurement 26 = 208	Measurement 27 = 193	Measurement 28 = 204	Measurement 29 = 195	Measurement 30 = 209
+Measurement 31 = 204	Measurement 32 = 204	Measurement 33 = 214	Measurement 34 = 206	Measurement 35 = 228
+Measurement 36 = 210	Measurement 37 = 227	Measurement 38 = 218	Measurement 39 = 223	Measurement 40 = 229
+Measurement 41 = 224	Measurement 42 = 236	Measurement 43 = 218	Measurement 44 = 231	Measurement 45 = 221
+Measurement 46 = 222	Measurement 47 = 221	Measurement 48 = 216	Measurement 49 = 223	Measurement 50 = 210
+
+BOT 3
+White
+POS 26
+Measurement 1 = 320	Measurement 2 = 313	Measurement 3 = 286	Measurement 4 = 290	Measurement 5 = 316
+Measurement 6 = 279	Measurement 7 = 298	Measurement 8 = 315	Measurement 9 = 281	Measurement 10 = 297
+Measurement 11 = 311	Measurement 12 = 279	Measurement 13 = 306	Measurement 14 = 303	Measurement 15 = 284
+Measurement 16 = 310	Measurement 17 = 292	Measurement 18 = 289	Measurement 19 = 310	Measurement 20 = 290
+Measurement 21 = 290	Measurement 22 = 313	Measurement 23 = 286	Measurement 24 = 291	Measurement 25 = 315
+Measurement 26 = 280	Measurement 27 = 293	Measurement 28 = 316	Measurement 29 = 279	Measurement 30 = 294
+Measurement 31 = 315	Measurement 32 = 279	Measurement 33 = 297	Measurement 34 = 312	Measurement 35 = 281
+Measurement 36 = 296	Measurement 37 = 312	Measurement 38 = 281	Measurement 39 = 296	Measurement 40 = 311
+Measurement 41 = 281	Measurement 42 = 296	Measurement 43 = 309	Measurement 44 = 280	Measurement 45 = 303
+Measurement 46 = 304	Measurement 47 = 281	Measurement 48 = 309	Measurement 49 = 293	Measurement 50 = 289
+
+POS 25
+Measurement 1 = 421	Measurement 2 = 362	Measurement 3 = 444	Measurement 4 = 353	Measurement 5 = 427
+Measurement 6 = 423	Measurement 7 = 382	Measurement 8 = 404	Measurement 9 = 416	Measurement 10 = 379
+Measurement 11 = 416	Measurement 12 = 408	Measurement 13 = 383	Measurement 14 = 417	Measurement 15 = 401
+Measurement 16 = 393	Measurement 17 = 421	Measurement 18 = 388	Measurement 19 = 393	Measurement 20 = 424
+Measurement 21 = 386	Measurement 22 = 394	Measurement 23 = 425	Measurement 24 = 384	Measurement 25 = 400
+Measurement 26 = 429	Measurement 27 = 376	Measurement 28 = 400	Measurement 29 = 429	Measurement 30 = 382
+Measurement 31 = 396	Measurement 32 = 428	Measurement 33 = 384	Measurement 34 = 396	Measurement 35 = 427
+Measurement 36 = 377	Measurement 37 = 402	Measurement 38 = 427	Measurement 39 = 378	Measurement 40 = 399
+Measurement 41 = 427	Measurement 42 = 382	Measurement 43 = 394	Measurement 44 = 426	Measurement 45 = 379
+Measurement 46 = 400	Measurement 47 = 426	Measurement 48 = 376	Measurement 49 = 402	Measurement 50 = 427
+
+POS 24
+Measurement 1 = 318	Measurement 2 = 287	Measurement 3 = 308	Measurement 4 = 272	Measurement 5 = 292
+Measurement 6 = 309	Measurement 7 = 270	Measurement 8 = 291	Measurement 9 = 309	Measurement 10 = 269
+Measurement 11 = 291	Measurement 12 = 308	Measurement 13 = 270	Measurement 14 = 290	Measurement 15 = 309
+Measurement 16 = 272	Measurement 17 = 288	Measurement 18 = 308	Measurement 19 = 275	Measurement 20 = 285
+Measurement 21 = 305	Measurement 22 = 278	Measurement 23 = 284	Measurement 24 = 303	Measurement 25 = 277
+Measurement 26 = 285	Measurement 27 = 305	Measurement 28 = 276	Measurement 29 = 284	Measurement 30 = 305
+Measurement 31 = 277	Measurement 32 = 284	Measurement 33 = 303	Measurement 34 = 279	Measurement 35 = 284
+Measurement 36 = 301	Measurement 37 = 284	Measurement 38 = 278	Measurement 39 = 300	Measurement 40 = 294
+Measurement 41 = 272	Measurement 42 = 298	Measurement 43 = 287	Measurement 44 = 279	Measurement 45 = 300
+Measurement 46 = 286	Measurement 47 = 273	Measurement 48 = 293	Measurement 49 = 304	Measurement 50 = 271
+
+POS 23
+Measurement 1 = 430	Measurement 2 = 467	Measurement 3 = 454	Measurement 4 = 451	Measurement 5 = 452
+Measurement 6 = 451	Measurement 7 = 435	Measurement 8 = 444	Measurement 9 = 459	Measurement 10 = 425
+Measurement 11 = 457	Measurement 12 = 464	Measurement 13 = 428	Measurement 14 = 424	Measurement 15 = 448
+Measurement 16 = 419	Measurement 17 = 454	Measurement 18 = 449	Measurement 19 = 434	Measurement 20 = 442
+Measurement 21 = 427	Measurement 22 = 422	Measurement 23 = 436	Measurement 24 = 448	Measurement 25 = 434
+Measurement 26 = 466	Measurement 27 = 429	Measurement 28 = 429	Measurement 29 = 437	Measurement 30 = 439
+Measurement 31 = 434	Measurement 32 = 450	Measurement 33 = 427	Measurement 34 = 426	Measurement 35 = 441
+Measurement 36 = 423	Measurement 37 = 437	Measurement 38 = 446	Measurement 39 = 435	Measurement 40 = 423
+Measurement 41 = 424	Measurement 42 = 425	Measurement 43 = 442	Measurement 44 = 451	Measurement 45 = 441
+Measurement 46 = 423	Measurement 47 = 435	Measurement 48 = 434	Measurement 49 = 445	Measurement 50 = 451
+
+POS 22
+Measurement 1 = 372	Measurement 2 = 386	Measurement 3 = 391	Measurement 4 = 421	Measurement 5 = 384
+Measurement 6 = 392	Measurement 7 = 420	Measurement 8 = 379	Measurement 9 = 395	Measurement 10 = 422
+Measurement 11 = 374	Measurement 12 = 400	Measurement 13 = 421	Measurement 14 = 376	Measurement 15 = 399
+Measurement 16 = 418	Measurement 17 = 378	Measurement 18 = 398	Measurement 19 = 417	Measurement 20 = 376
+Measurement 21 = 399	Measurement 22 = 416	Measurement 23 = 376	Measurement 24 = 397	Measurement 25 = 415
+Measurement 26 = 378	Measurement 27 = 399	Measurement 28 = 412	Measurement 29 = 373	Measurement 30 = 404
+Measurement 31 = 415	Measurement 32 = 373	Measurement 33 = 404	Measurement 34 = 410	Measurement 35 = 373
+Measurement 36 = 406	Measurement 37 = 402	Measurement 38 = 382	Measurement 39 = 411	Measurement 40 = 388
+Measurement 41 = 391	Measurement 42 = 413	Measurement 43 = 384	Measurement 44 = 391	Measurement 45 = 413
+Measurement 46 = 383	Measurement 47 = 390	Measurement 48 = 413	Measurement 49 = 387	Measurement 50 = 390
+
+POS 21
+Measurement 1 = 505	Measurement 2 = 576	Measurement 3 = 480	Measurement 4 = 544	Measurement 5 = 546
+Measurement 6 = 503	Measurement 7 = 508	Measurement 8 = 540	Measurement 9 = 506	Measurement 10 = 508
+Measurement 11 = 536	Measurement 12 = 464	Measurement 13 = 537	Measurement 14 = 478	Measurement 15 = 550
+Measurement 16 = 481	Measurement 17 = 512	Measurement 18 = 485	Measurement 19 = 540	Measurement 20 = 482
+Measurement 21 = 543	Measurement 22 = 464	Measurement 23 = 513	Measurement 24 = 510	Measurement 25 = 516
+Measurement 26 = 493	Measurement 27 = 543	Measurement 28 = 472	Measurement 29 = 504	Measurement 30 = 525
+Measurement 31 = 474	Measurement 32 = 540	Measurement 33 = 482	Measurement 34 = 544	Measurement 35 = 472
+Measurement 36 = 546	Measurement 37 = 467	Measurement 38 = 519	Measurement 39 = 489	Measurement 40 = 552
+Measurement 41 = 477	Measurement 42 = 558	Measurement 43 = 461	Measurement 44 = 508	Measurement 45 = 486
+Measurement 46 = 531	Measurement 47 = 461	Measurement 48 = 547	Measurement 49 = 475	Measurement 50 = 526
+
+POS 20
+Measurement 1 = 527	Measurement 2 = 580	Measurement 3 = 564	Measurement 4 = 607	Measurement 5 = 577
+Measurement 6 = 568	Measurement 7 = 608	Measurement 8 = 592	Measurement 9 = 554	Measurement 10 = 602
+Measurement 11 = 580	Measurement 12 = 569	Measurement 13 = 606	Measurement 14 = 572	Measurement 15 = 572
+Measurement 16 = 606	Measurement 17 = 576	Measurement 18 = 569	Measurement 19 = 610	Measurement 20 = 581
+Measurement 21 = 565	Measurement 22 = 606	Measurement 23 = 573	Measurement 24 = 574	Measurement 25 = 606
+Measurement 26 = 575	Measurement 27 = 563	Measurement 28 = 605	Measurement 29 = 595	Measurement 30 = 553
+Measurement 31 = 604	Measurement 32 = 582	Measurement 33 = 555	Measurement 34 = 603	Measurement 35 = 598
+Measurement 36 = 548	Measurement 37 = 600	Measurement 38 = 599	Measurement 39 = 548	Measurement 40 = 598
+Measurement 41 = 597	Measurement 42 = 552	Measurement 43 = 602	Measurement 44 = 597	Measurement 45 = 545
+Measurement 46 = 596	Measurement 47 = 601	Measurement 48 = 547	Measurement 49 = 595	Measurement 50 = 601
+
+POS 19
+Measurement 1 = 673	Measurement 2 = 555	Measurement 3 = 662	Measurement 4 = 529	Measurement 5 = 681
+Measurement 6 = 569	Measurement 7 = 641	Measurement 8 = 562	Measurement 9 = 681	Measurement 10 = 553
+Measurement 11 = 648	Measurement 12 = 558	Measurement 13 = 704	Measurement 14 = 524	Measurement 15 = 659
+Measurement 16 = 550	Measurement 17 = 658	Measurement 18 = 552	Measurement 19 = 692	Measurement 20 = 544
+Measurement 21 = 652	Measurement 22 = 545	Measurement 23 = 664	Measurement 24 = 521	Measurement 25 = 673
+Measurement 26 = 565	Measurement 27 = 657	Measurement 28 = 571	Measurement 29 = 684	Measurement 30 = 548
+Measurement 31 = 652	Measurement 32 = 572	Measurement 33 = 672	Measurement 34 = 545	Measurement 35 = 641
+Measurement 36 = 592	Measurement 37 = 644	Measurement 38 = 579	Measurement 39 = 645	Measurement 40 = 608
+Measurement 41 = 616	Measurement 42 = 597	Measurement 43 = 638	Measurement 44 = 594	Measurement 45 = 620
+Measurement 46 = 615	Measurement 47 = 609	Measurement 48 = 603	Measurement 49 = 623	Measurement 50 = 642
+
+POS 18
+Measurement 1 = 505	Measurement 2 = 494	Measurement 3 = 527	Measurement 4 = 512	Measurement 5 = 487
+Measurement 6 = 524	Measurement 7 = 528	Measurement 8 = 489	Measurement 9 = 515	Measurement 10 = 540
+Measurement 11 = 482	Measurement 12 = 510	Measurement 13 = 539	Measurement 14 = 495	Measurement 15 = 504
+Measurement 16 = 529	Measurement 17 = 512	Measurement 18 = 483	Measurement 19 = 524	Measurement 20 = 529
+Measurement 21 = 483	Measurement 22 = 511	Measurement 23 = 536	Measurement 24 = 480	Measurement 25 = 515
+Measurement 26 = 543	Measurement 27 = 488	Measurement 28 = 502	Measurement 29 = 531	Measurement 30 = 500
+Measurement 31 = 497	Measurement 32 = 529	Measurement 33 = 533	Measurement 34 = 485	Measurement 35 = 513
+Measurement 36 = 540	Measurement 37 = 493	Measurement 38 = 503	Measurement 39 = 531	Measurement 40 = 507
+Measurement 41 = 488	Measurement 42 = 524	Measurement 43 = 533	Measurement 44 = 488	Measurement 45 = 513
+Measurement 46 = 542	Measurement 47 = 480	Measurement 48 = 503	Measurement 49 = 536	Measurement 50 = 497
+
+POS 17
+Measurement 1 = 757	Measurement 2 = 743	Measurement 3 = 767	Measurement 4 = 704	Measurement 5 = 724
+Measurement 6 = 760	Measurement 7 = 710	Measurement 8 = 721	Measurement 9 = 756	Measurement 10 = 733
+Measurement 11 = 690	Measurement 12 = 749	Measurement 13 = 752	Measurement 14 = 689	Measurement 15 = 739
+Measurement 16 = 762	Measurement 17 = 712	Measurement 18 = 713	Measurement 19 = 753	Measurement 20 = 749
+Measurement 21 = 695	Measurement 22 = 740	Measurement 23 = 765	Measurement 24 = 703	Measurement 25 = 722
+Measurement 26 = 754	Measurement 27 = 728	Measurement 28 = 689	Measurement 29 = 737	Measurement 30 = 758
+Measurement 31 = 687	Measurement 32 = 734	Measurement 33 = 758	Measurement 34 = 715	Measurement 35 = 698
+Measurement 36 = 749	Measurement 37 = 756	Measurement 38 = 687	Measurement 39 = 734	Measurement 40 = 759
+Measurement 41 = 710	Measurement 42 = 704	Measurement 43 = 748	Measurement 44 = 754	Measurement 45 = 686
+Measurement 46 = 721	Measurement 47 = 755	Measurement 48 = 721	Measurement 49 = 692	Measurement 50 = 747
+
+POS 16
+Measurement 1 = 439	Measurement 2 = 482	Measurement 3 = 425	Measurement 4 = 496	Measurement 5 = 450
+Measurement 6 = 442	Measurement 7 = 472	Measurement 8 = 453	Measurement 9 = 441	Measurement 10 = 471
+Measurement 11 = 448	Measurement 12 = 446	Measurement 13 = 475	Measurement 14 = 440	Measurement 15 = 445
+Measurement 16 = 480	Measurement 17 = 430	Measurement 18 = 453	Measurement 19 = 484	Measurement 20 = 428
+Measurement 21 = 454	Measurement 22 = 478	Measurement 23 = 433	Measurement 24 = 454	Measurement 25 = 477
+Measurement 26 = 432	Measurement 27 = 454	Measurement 28 = 478	Measurement 29 = 430	Measurement 30 = 455
+Measurement 31 = 478	Measurement 32 = 432	Measurement 33 = 454	Measurement 34 = 475	Measurement 35 = 432
+Measurement 36 = 454	Measurement 37 = 474	Measurement 38 = 433	Measurement 39 = 453	Measurement 40 = 475
+Measurement 41 = 433	Measurement 42 = 454	Measurement 43 = 474	Measurement 44 = 434	Measurement 45 = 453
+Measurement 46 = 474	Measurement 47 = 431	Measurement 48 = 457	Measurement 49 = 471	Measurement 50 = 429
+
+POS 15
+Measurement 1 = 583	Measurement 2 = 632	Measurement 3 = 568	Measurement 4 = 600	Measurement 5 = 603
+Measurement 6 = 596	Measurement 7 = 583	Measurement 8 = 636	Measurement 9 = 561	Measurement 10 = 617
+Measurement 11 = 605	Measurement 12 = 606	Measurement 13 = 589	Measurement 14 = 648	Measurement 15 = 565
+Measurement 16 = 572	Measurement 17 = 611	Measurement 18 = 581	Measurement 19 = 596	Measurement 20 = 616
+Measurement 21 = 556	Measurement 22 = 592	Measurement 23 = 603	Measurement 24 = 600	Measurement 25 = 600
+Measurement 26 = 632	Measurement 27 = 579	Measurement 28 = 586	Measurement 29 = 623	Measurement 30 = 599
+Measurement 31 = 601	Measurement 32 = 630	Measurement 33 = 569	Measurement 34 = 589	Measurement 35 = 629
+Measurement 36 = 581	Measurement 37 = 601	Measurement 38 = 625	Measurement 39 = 572	Measurement 40 = 571
+Measurement 41 = 617	Measurement 42 = 586	Measurement 43 = 605	Measurement 44 = 624	Measurement 45 = 584
+Measurement 46 = 583	Measurement 47 = 630	Measurement 48 = 605	Measurement 49 = 607	Measurement 50 = 612
+
+POS 14
+Measurement 1 = 579	Measurement 2 = 660	Measurement 3 = 633	Measurement 4 = 697	Measurement 5 = 617
+Measurement 6 = 700	Measurement 7 = 578	Measurement 8 = 670	Measurement 9 = 639	Measurement 10 = 708
+Measurement 11 = 621	Measurement 12 = 684	Measurement 13 = 600	Measurement 14 = 648	Measurement 15 = 646
+Measurement 16 = 670	Measurement 17 = 620	Measurement 18 = 659	Measurement 19 = 644	Measurement 20 = 644
+Measurement 21 = 648	Measurement 22 = 688	Measurement 23 = 616	Measurement 24 = 652	Measurement 25 = 671
+Measurement 26 = 656	Measurement 27 = 648	Measurement 28 = 688	Measurement 29 = 617	Measurement 30 = 647
+Measurement 31 = 679	Measurement 32 = 667	Measurement 33 = 649	Measurement 34 = 668	Measurement 35 = 619
+Measurement 36 = 627	Measurement 37 = 688	Measurement 38 = 633	Measurement 39 = 651	Measurement 40 = 665
+Measurement 41 = 621	Measurement 42 = 636	Measurement 43 = 684	Measurement 44 = 637	Measurement 45 = 653
+Measurement 46 = 638	Measurement 47 = 656	Measurement 48 = 639	Measurement 49 = 685	Measurement 50 = 617
+
+BOT 3
+Grey
+POS 14
+Measurement 1 = 126	Measurement 2 = 90	Measurement 3 = 114	Measurement 4 = 90	Measurement 5 = 113
+Measurement 6 = 115	Measurement 7 = 97	Measurement 8 = 102	Measurement 9 = 97	Measurement 10 = 102
+Measurement 11 = 108	Measurement 12 = 93	Measurement 13 = 110	Measurement 14 = 91	Measurement 15 = 90
+Measurement 16 = 100	Measurement 17 = 107	Measurement 18 = 91	Measurement 19 = 110	Measurement 20 = 103
+Measurement 21 = 93	Measurement 22 = 109	Measurement 23 = 101	Measurement 24 = 104	Measurement 25 = 110
+Measurement 26 = 101	Measurement 27 = 94	Measurement 28 = 94	Measurement 29 = 95	Measurement 30 = 103
+Measurement 31 = 110	Measurement 32 = 95	Measurement 33 = 93	Measurement 34 = 89	Measurement 35 = 94
+Measurement 36 = 85	Measurement 37 = 110	Measurement 38 = 97	Measurement 39 = 90	Measurement 40 = 107
+Measurement 41 = 111	Measurement 42 = 91	Measurement 43 = 106	Measurement 44 = 106	Measurement 45 = 108
+Measurement 46 = 98	Measurement 47 = 93	Measurement 48 = 101	Measurement 49 = 109	Measurement 50 = 103
+
+POS 15
+Measurement 1 = 75	Measurement 2 = 107	Measurement 3 = 83	Measurement 4 = 88	Measurement 5 = 85
+Measurement 6 = 98	Measurement 7 = 90	Measurement 8 = 88	Measurement 9 = 72	Measurement 10 = 87
+Measurement 11 = 82	Measurement 12 = 97	Measurement 13 = 83	Measurement 14 = 106	Measurement 15 = 84
+Measurement 16 = 101	Measurement 17 = 91	Measurement 18 = 96	Measurement 19 = 87	Measurement 20 = 127
+Measurement 21 = 75	Measurement 22 = 85	Measurement 23 = 83	Measurement 24 = 95	Measurement 25 = 79
+Measurement 26 = 116	Measurement 27 = 87	Measurement 28 = 96	Measurement 29 = 95	Measurement 30 = 93
+Measurement 31 = 95	Measurement 32 = 100	Measurement 33 = 97	Measurement 34 = 113	Measurement 35 = 79
+Measurement 36 = 102	Measurement 37 = 96	Measurement 38 = 100	Measurement 39 = 90	Measurement 40 = 103
+Measurement 41 = 80	Measurement 42 = 97	Measurement 43 = 95	Measurement 44 = 96	Measurement 45 = 84
+Measurement 46 = 111	Measurement 47 = 82	Measurement 48 = 85	Measurement 49 = 95	Measurement 50 = 97
+
+POS 16
+	Measurement 1 = 76	Measurement 2 = 78	Measurement 3 = 91	Measurement 4 = 77	Measurement 5 = 80
+Measurement 6 = 70	Measurement 7 = 85	Measurement 8 = 79	Measurement 9 = 70	Measurement 10 = 84
+Measurement 11 = 78	Measurement 12 = 79	Measurement 13 = 84	Measurement 14 = 73	Measurement 15 = 79
+Measurement 16 = 80	Measurement 17 = 80	Measurement 18 = 64	Measurement 19 = 80	Measurement 20 = 68
+Measurement 21 = 75	Measurement 22 = 74	Measurement 23 = 75	Measurement 24 = 64	Measurement 25 = 81
+Measurement 26 = 67	Measurement 27 = 75	Measurement 28 = 74	Measurement 29 = 75	Measurement 30 = 75
+Measurement 31 = 80	Measurement 32 = 76	Measurement 33 = 76	Measurement 34 = 74	Measurement 35 = 81
+Measurement 36 = 68	Measurement 37 = 81	Measurement 38 = 65	Measurement 39 = 76	Measurement 40 = 67
+Measurement 41 = 80	Measurement 42 = 64	Measurement 43 = 80	Measurement 44 = 72	Measurement 45 = 74
+Measurement 46 = 75	Measurement 47 = 86	Measurement 48 = 66	Measurement 49 = 80	Measurement 50 = 76
+
+POS 17
+Measurement 1 = 111	Measurement 2 = 117	Measurement 3 = 110	Measurement 4 = 118	Measurement 5 = 118
+Measurement 6 = 109	Measurement 7 = 117	Measurement 8 = 117	Measurement 9 = 109	Measurement 10 = 117
+Measurement 11 = 117	Measurement 12 = 109	Measurement 13 = 117	Measurement 14 = 118	Measurement 15 = 109
+Measurement 16 = 118	Measurement 17 = 121	Measurement 18 = 105	Measurement 19 = 119	Measurement 20 = 124
+Measurement 21 = 100	Measurement 22 = 118	Measurement 23 = 132	Measurement 24 = 93	Measurement 25 = 118
+Measurement 26 = 132	Measurement 27 = 94	Measurement 28 = 118	Measurement 29 = 130	Measurement 30 = 95
+Measurement 31 = 119	Measurement 32 = 130	Measurement 33 = 104	Measurement 34 = 118	Measurement 35 = 119
+Measurement 36 = 107	Measurement 37 = 118	Measurement 38 = 118	Measurement 39 = 107	Measurement 40 = 118
+Measurement 41 = 120	Measurement 42 = 106	Measurement 43 = 118	Measurement 44 = 121	Measurement 45 = 105
+Measurement 46 = 118	Measurement 47 = 119	Measurement 48 = 107	Measurement 49 = 119	Measurement 50 = 120
+
+POS 18
+Measurement 1 = 78	Measurement 2 = 84	Measurement 3 = 81	Measurement 4 = 80	Measurement 5 = 77
+Measurement 6 = 81	Measurement 7 = 80	Measurement 8 = 77	Measurement 9 = 81	Measurement 10 = 81
+Measurement 11 = 75	Measurement 12 = 74	Measurement 13 = 84	Measurement 14 = 68	Measurement 15 = 80
+Measurement 16 = 86	Measurement 17 = 66	Measurement 18 = 80	Measurement 19 = 82	Measurement 20 = 77
+Measurement 21 = 76	Measurement 22 = 79	Measurement 23 = 81	Measurement 24 = 79	Measurement 25 = 77
+Measurement 26 = 82	Measurement 27 = 79	Measurement 28 = 77	Measurement 29 = 82	Measurement 30 = 80
+Measurement 31 = 77	Measurement 32 = 76	Measurement 33 = 80	Measurement 34 = 70	Measurement 35 = 81
+Measurement 36 = 79	Measurement 37 = 77	Measurement 38 = 81	Measurement 39 = 80	Measurement 40 = 75
+Measurement 41 = 82	Measurement 42 = 85	Measurement 43 = 75	Measurement 44 = 82	Measurement 45 = 80
+Measurement 46 = 76	Measurement 47 = 82	Measurement 48 = 80	Measurement 49 = 75	Measurement 50 = 82
+
+POS 19
+Measurement 1 = 121	Measurement 2 = 117	Measurement 3 = 125	Measurement 4 = 128	Measurement 5 = 118
+Measurement 6 = 125	Measurement 7 = 129	Measurement 8 = 116	Measurement 9 = 126	Measurement 10 = 132
+Measurement 11 = 111	Measurement 12 = 125	Measurement 13 = 135	Measurement 14 = 100	Measurement 15 = 125
+Measurement 16 = 140	Measurement 17 = 104	Measurement 18 = 126	Measurement 19 = 138	Measurement 20 = 106
+Measurement 21 = 125	Measurement 22 = 140	Measurement 23 = 103	Measurement 24 = 125	Measurement 25 = 141
+Measurement 26 = 104	Measurement 27 = 127	Measurement 28 = 133	Measurement 29 = 117	Measurement 30 = 121
+Measurement 31 = 126	Measurement 32 = 124	Measurement 33 = 120	Measurement 34 = 126	Measurement 35 = 119
+Measurement 36 = 124	Measurement 37 = 123	Measurement 38 = 126	Measurement 39 = 124	Measurement 40 = 119
+Measurement 41 = 125	Measurement 42 = 124	Measurement 43 = 119	Measurement 44 = 126	Measurement 45 = 125
+Measurement 46 = 118	Measurement 47 = 125	Measurement 48 = 126	Measurement 49 = 118	Measurement 50 = 128
+
+POS 20
+Measurement 1 = 105	Measurement 2 = 124	Measurement 3 = 106	Measurement 4 = 117	Measurement 5 = 108
+Measurement 6 = 152	Measurement 7 = 96	Measurement 8 = 136	Measurement 9 = 111	Measurement 10 = 118
+Measurement 11 = 117	Measurement 12 = 153	Measurement 13 = 102	Measurement 14 = 130	Measurement 15 = 104
+Measurement 16 = 134	Measurement 17 = 119	Measurement 18 = 136	Measurement 19 = 102	Measurement 20 = 117
+Measurement 21 = 110	Measurement 22 = 133	Measurement 23 = 114	Measurement 24 = 125	Measurement 25 = 101
+Measurement 26 = 131	Measurement 27 = 114	Measurement 28 = 131	Measurement 29 = 112	Measurement 30 = 118
+Measurement 31 = 105	Measurement 32 = 150	Measurement 33 = 97	Measurement 34 = 124	Measurement 35 = 109
+Measurement 36 = 121	Measurement 37 = 105	Measurement 38 = 155	Measurement 39 = 90	Measurement 40 = 123
+Measurement 41 = 106	Measurement 42 = 127	Measurement 43 = 102	Measurement 44 = 158	Measurement 45 = 97
+Measurement 46 = 122	Measurement 47 = 105	Measurement 48 = 132	Measurement 49 = 99	Measurement 50 = 149
+
+POS 21
+Measurement 1 = 79	Measurement 2 = 86	Measurement 3 = 87	Measurement 4 = 93	Measurement 5 = 93
+Measurement 6 = 90	Measurement 7 = 86	Measurement 8 = 95	Measurement 9 = 103	Measurement 10 = 75
+Measurement 11 = 93	Measurement 12 = 94	Measurement 13 = 88	Measurement 14 = 93	Measurement 15 = 88
+Measurement 16 = 99	Measurement 17 = 77	Measurement 18 = 85	Measurement 19 = 103	Measurement 20 = 76
+Measurement 21 = 91	Measurement 22 = 93	Measurement 23 = 85	Measurement 24 = 90	Measurement 25 = 90
+Measurement 26 = 86	Measurement 27 = 85	Measurement 28 = 92	Measurement 29 = 99	Measurement 30 = 74
+Measurement 31 = 91	Measurement 32 = 95	Measurement 33 = 84	Measurement 34 = 91	Measurement 35 = 89
+Measurement 36 = 85	Measurement 37 = 91	Measurement 38 = 88	Measurement 39 = 86	Measurement 40 = 81
+Measurement 41 = 89	Measurement 42 = 99	Measurement 43 = 72	Measurement 44 = 88	Measurement 45 = 98
+Measurement 46 = 78	Measurement 47 = 87	Measurement 48 = 92	Measurement 49 = 81	Measurement 50 = 88
+
+POS 22
+Measurement 1 = 109	Measurement 2 = 99	Measurement 3 = 105	Measurement 4 = 111	Measurement 5 = 126
+Measurement 6 = 111	Measurement 7 = 110	Measurement 8 = 96	Measurement 9 = 103	Measurement 10 = 103
+Measurement 11 = 108	Measurement 12 = 111	Measurement 13 = 108	Measurement 14 = 128	Measurement 15 = 97
+Measurement 16 = 116	Measurement 17 = 95	Measurement 18 = 144	Measurement 19 = 103	Measurement 20 = 131
+Measurement 21 = 94	Measurement 22 = 116	Measurement 23 = 92	Measurement 24 = 132	Measurement 25 = 104
+Measurement 26 = 132	Measurement 27 = 110	Measurement 28 = 105	Measurement 29 = 107	Measurement 30 = 127
+Measurement 31 = 106	Measurement 32 = 132	Measurement 33 = 95	Measurement 34 = 104	Measurement 35 = 123
+Measurement 36 = 122	Measurement 37 = 106	Measurement 38 = 121	Measurement 39 = 107	Measurement 40 = 100
+Measurement 41 = 121	Measurement 42 = 115	Measurement 43 = 107	Measurement 44 = 115	Measurement 45 = 118
+Measurement 46 = 96	Measurement 47 = 119	Measurement 48 = 109	Measurement 49 = 103	Measurement 50 = 116
+
+POS 23
+Measurement 1 = 83	Measurement 2 = 74	Measurement 3 = 68	Measurement 4 = 74	Measurement 5 = 71
+Measurement 6 = 69	Measurement 7 = 73	Measurement 8 = 72	Measurement 9 = 77	Measurement 10 = 63
+Measurement 11 = 72	Measurement 12 = 81	Measurement 13 = 63	Measurement 14 = 73	Measurement 15 = 73
+Measurement 16 = 69	Measurement 17 = 73	Measurement 18 = 71	Measurement 19 = 73	Measurement 20 = 62
+Measurement 21 = 74	Measurement 22 = 80	Measurement 23 = 63	Measurement 24 = 73	Measurement 25 = 72
+Measurement 26 = 68	Measurement 27 = 74	Measurement 28 = 71	Measurement 29 = 72	Measurement 30 = 67
+Measurement 31 = 73	Measurement 32 = 81	Measurement 33 = 64	Measurement 34 = 73	Measurement 35 = 72
+Measurement 36 = 68	Measurement 37 = 73	Measurement 38 = 72	Measurement 39 = 69	Measurement 40 = 72
+Measurement 41 = 69	Measurement 42 = 72	Measurement 43 = 70	Measurement 44 = 72	Measurement 45 = 76
+Measurement 46 = 63	Measurement 47 = 74	Measurement 48 = 78	Measurement 49 = 60	Measurement 50 = 73
+
+POS 24
+Measurement 1 = 77	Measurement 2 = 88	Measurement 3 = 72	Measurement 4 = 87	Measurement 5 = 90
+Measurement 6 = 78	Measurement 7 = 87	Measurement 8 = 84	Measurement 9 = 81	Measurement 10 = 87
+Measurement 11 = 82	Measurement 12 = 82	Measurement 13 = 77	Measurement 14 = 86	Measurement 15 = 95
+Measurement 16 = 75	Measurement 17 = 86	Measurement 18 = 84	Measurement 19 = 80	Measurement 20 = 86
+Measurement 21 = 83	Measurement 22 = 83	Measurement 23 = 75	Measurement 24 = 87	Measurement 25 = 93
+Measurement 26 = 72	Measurement 27 = 87	Measurement 28 = 83	Measurement 29 = 81	Measurement 30 = 86
+Measurement 31 = 82	Measurement 32 = 85	Measurement 33 = 75	Measurement 34 = 85	Measurement 35 = 95
+Measurement 36 = 78	Measurement 37 = 86	Measurement 38 = 83	Measurement 39 = 81	Measurement 40 = 86
+Measurement 41 = 81	Measurement 42 = 90	Measurement 43 = 72	Measurement 44 = 86	Measurement 45 = 88
+Measurement 46 = 80	Measurement 47 = 86	Measurement 48 = 82	Measurement 49 = 81	Measurement 50 = 78
+
+POS 25
+Measurement 1 = 80	Measurement 2 = 75	Measurement 3 = 76	Measurement 4 = 68	Measurement 5 = 78
+Measurement 6 = 84	Measurement 7 = 70	Measurement 8 = 77	Measurement 9 = 77	Measurement 10 = 73
+Measurement 11 = 77	Measurement 12 = 75	Measurement 13 = 76	Measurement 14 = 67	Measurement 15 = 78
+Measurement 16 = 85	Measurement 17 = 71	Measurement 18 = 77	Measurement 19 = 74	Measurement 20 = 73
+Measurement 21 = 78	Measurement 22 = 72	Measurement 23 = 78	Measurement 24 = 66	Measurement 25 = 77
+Measurement 26 = 85	Measurement 27 = 64	Measurement 28 = 77	Measurement 29 = 79	Measurement 30 = 69
+Measurement 31 = 77	Measurement 32 = 77	Measurement 33 = 72	Measurement 34 = 77	Measurement 35 = 76
+Measurement 36 = 72	Measurement 37 = 77	Measurement 38 = 75	Measurement 39 = 76	Measurement 40 = 74
+Measurement 41 = 77	Measurement 42 = 83	Measurement 43 = 63	Measurement 44 = 77	Measurement 45 = 85
+Measurement 46 = 66	Measurement 47 = 77	Measurement 48 = 76	Measurement 49 = 72	Measurement 50 = 77
+
+POS 26
+Measurement 1 = 50	Measurement 2 = 44	Measurement 3 = 59	Measurement 4 = 47	Measurement 5 = 52
+Measurement 6 = 48	Measurement 7 = 61	Measurement 8 = 50	Measurement 9 = 59	Measurement 10 = 47
+Measurement 11 = 52	Measurement 12 = 48	Measurement 13 = 57	Measurement 14 = 50	Measurement 15 = 60
+Measurement 16 = 50	Measurement 17 = 51	Measurement 18 = 56	Measurement 19 = 55	Measurement 20 = 51
+Measurement 21 = 54	Measurement 22 = 49	Measurement 23 = 49	Measurement 24 = 54	Measurement 25 = 52
+Measurement 26 = 51	Measurement 27 = 52	Measurement 28 = 51	Measurement 29 = 51	Measurement 30 = 53
+Measurement 31 = 50	Measurement 32 = 50	Measurement 33 = 57	Measurement 34 = 57	Measurement 35 = 46
+Measurement 36 = 52	Measurement 37 = 49	Measurement 38 = 50	Measurement 39 = 54	Measurement 40 = 51
+Measurement 41 = 46	Measurement 42 = 51	Measurement 43 = 46	Measurement 44 = 49	Measurement 45 = 52
+Measurement 46 = 50	Measurement 47 = 48	Measurement 48 = 51	Measurement 49 = 52	Measurement 50 = 56
+
+BOT 3
+Black
+POS 26
+Measurement 1 = 13	Measurement 2 = 6	Measurement 3 = 6	Measurement 4 = 6	Measurement 5 = 6
+Measurement 6 = 6	Measurement 7 = 6	Measurement 8 = 6	Measurement 9 = 6	Measurement 10 = 6
+Measurement 11 = 6	Measurement 12 = 6	Measurement 13 = 6	Measurement 14 = 6	Measurement 15 = 6
+Measurement 16 = 6	Measurement 17 = 6	Measurement 18 = 6	Measurement 19 = 6	Measurement 20 = 6
+Measurement 21 = 6	Measurement 22 = 6	Measurement 23 = 6	Measurement 24 = 6	Measurement 25 = 6
+Measurement 26 = 6	Measurement 27 = 6	Measurement 28 = 6	Measurement 29 = 6	Measurement 30 = 6
+Measurement 31 = 6	Measurement 32 = 6	Measurement 33 = 6	Measurement 34 = 6	Measurement 35 = 6
+Measurement 36 = 6	Measurement 37 = 6	Measurement 38 = 6	Measurement 39 = 6	Measurement 40 = 6
+Measurement 41 = 6	Measurement 42 = 6	Measurement 43 = 6	Measurement 44 = 6	Measurement 45 = 6
+Measurement 46 = 6	Measurement 47 = 6	Measurement 48 = 6	Measurement 49 = 6	Measurement 50 = 6
+
+POS 25
+Measurement 1 = 13	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 6	Measurement 9 = 6	Measurement 10 = 6
+Measurement 11 = 7	Measurement 12 = 6	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 6	Measurement 17 = 6	Measurement 18 = 6	Measurement 19 = 6	Measurement 20 = 6
+Measurement 21 = 6	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 6	Measurement 25 = 6
+Measurement 26 = 7	Measurement 27 = 6	Measurement 28 = 6	Measurement 29 = 7	Measurement 30 = 6
+Measurement 31 = 6	Measurement 32 = 6	Measurement 33 = 7	Measurement 34 = 6	Measurement 35 = 6
+Measurement 36 = 6	Measurement 37 = 6	Measurement 38 = 6	Measurement 39 = 6	Measurement 40 = 6
+Measurement 41 = 7	Measurement 42 = 6	Measurement 43 = 6	Measurement 44 = 6	Measurement 45 = 6
+Measurement 46 = 6	Measurement 47 = 6	Measurement 48 = 6	Measurement 49 = 6	Measurement 50 = 6
+
+POS 24
+Measurement 1 = 18	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 23
+Measurement 1 = 17	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 22
+Measurement 1 = 17	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 21
+Measurement 1 = 10	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 20
+Measurement 1 = 12	Measurement 2 = 11	Measurement 3 = 8	Measurement 4 = 7	Measurement 5 = 8
+Measurement 6 = 9	Measurement 7 = 8	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 8	Measurement 14 = 8	Measurement 15 = 8
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 8	Measurement 19 = 8	Measurement 20 = 8
+Measurement 21 = 8	Measurement 22 = 7	Measurement 23 = 8	Measurement 24 = 8	Measurement 25 = 8
+Measurement 26 = 8	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 8	Measurement 30 = 8
+Measurement 31 = 8	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 8	Measurement 35 = 8
+Measurement 36 = 8	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 8
+Measurement 41 = 8	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 8	Measurement 45 = 8
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 8
+
+POS 19
+Measurement 1 = 16	Measurement 2 = 14	Measurement 3 = 14	Measurement 4 = 14	Measurement 5 = 14
+Measurement 6 = 14	Measurement 7 = 14	Measurement 8 = 14	Measurement 9 = 14	Measurement 10 = 14
+Measurement 11 = 14	Measurement 12 = 14	Measurement 13 = 14	Measurement 14 = 14	Measurement 15 = 14
+Measurement 16 = 14	Measurement 17 = 13	Measurement 18 = 14	Measurement 19 = 14	Measurement 20 = 14
+Measurement 21 = 14	Measurement 22 = 13	Measurement 23 = 14	Measurement 24 = 14	Measurement 25 = 14
+Measurement 26 = 14	Measurement 27 = 13	Measurement 28 = 14	Measurement 29 = 14	Measurement 30 = 14
+Measurement 31 = 14	Measurement 32 = 14	Measurement 33 = 13	Measurement 34 = 14	Measurement 35 = 15
+Measurement 36 = 14	Measurement 37 = 14	Measurement 38 = 13	Measurement 39 = 14	Measurement 40 = 14
+Measurement 41 = 14	Measurement 42 = 14	Measurement 43 = 13	Measurement 44 = 14	Measurement 45 = 14
+Measurement 46 = 14	Measurement 47 = 14	Measurement 48 = 13	Measurement 49 = 14	Measurement 50 = 14
+
+POS 18
+Measurement 1 = 10	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 17
+Measurement 1 = 13	Measurement 2 = 12	Measurement 3 = 12	Measurement 4 = 12	Measurement 5 = 13
+Measurement 6 = 12	Measurement 7 = 12	Measurement 8 = 12	Measurement 9 = 12	Measurement 10 = 12
+Measurement 11 = 12	Measurement 12 = 12	Measurement 13 = 12	Measurement 14 = 12	Measurement 15 = 12
+Measurement 16 = 12	Measurement 17 = 12	Measurement 18 = 12	Measurement 19 = 12	Measurement 20 = 12
+Measurement 21 = 11	Measurement 22 = 12	Measurement 23 = 12	Measurement 24 = 12	Measurement 25 = 12
+Measurement 26 = 12	Measurement 27 = 12	Measurement 28 = 12	Measurement 29 = 12	Measurement 30 = 12
+Measurement 31 = 12	Measurement 32 = 12	Measurement 33 = 12	Measurement 34 = 12	Measurement 35 = 12
+Measurement 36 = 12	Measurement 37 = 11	Measurement 38 = 12	Measurement 39 = 12	Measurement 40 = 12
+Measurement 41 = 12	Measurement 42 = 12	Measurement 43 = 12	Measurement 44 = 12	Measurement 45 = 12
+Measurement 46 = 12	Measurement 47 = 12	Measurement 48 = 12	Measurement 49 = 12	Measurement 50 = 12
+
+POS 16
+Measurement 1 = 8	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 15
+Measurement 1 = 8	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7
+
+POS 14
+Measurement 1 = 12	Measurement 2 = 7	Measurement 3 = 7	Measurement 4 = 7	Measurement 5 = 7
+Measurement 6 = 7	Measurement 7 = 7	Measurement 8 = 7	Measurement 9 = 7	Measurement 10 = 7
+Measurement 11 = 7	Measurement 12 = 7	Measurement 13 = 7	Measurement 14 = 7	Measurement 15 = 7
+Measurement 16 = 7	Measurement 17 = 7	Measurement 18 = 7	Measurement 19 = 7	Measurement 20 = 7
+Measurement 21 = 7	Measurement 22 = 7	Measurement 23 = 7	Measurement 24 = 7	Measurement 25 = 7
+Measurement 26 = 7	Measurement 27 = 7	Measurement 28 = 7	Measurement 29 = 7	Measurement 30 = 7
+Measurement 31 = 7	Measurement 32 = 7	Measurement 33 = 7	Measurement 34 = 7	Measurement 35 = 7
+Measurement 36 = 7	Measurement 37 = 7	Measurement 38 = 7	Measurement 39 = 7	Measurement 40 = 7
+Measurement 41 = 7	Measurement 42 = 7	Measurement 43 = 7	Measurement 44 = 7	Measurement 45 = 7
+Measurement 46 = 7	Measurement 47 = 7	Measurement 48 = 7	Measurement 49 = 7	Measurement 50 = 7

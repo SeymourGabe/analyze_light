@@ -1,7 +1,7 @@
 #ifndef COLOR_H
 #define COLOR_H
 
-#define POSITIONS 13
+#define POSITIONS 26
 #include "position.hpp"
 
 typedef struct color{
@@ -13,7 +13,7 @@ typedef struct color{
 // FUNCTIONS
     void create_position(uint8_t position_flag);
     void add_measurement(uint8_t position_flag, uint8_t measurement_num, uint16_t measurement);
-
+    void setAvg();
 // CONSTRUCTORS
     color(std::string s); // Constructor
 

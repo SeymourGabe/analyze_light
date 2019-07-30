@@ -22,6 +22,13 @@ BOT::BOT(uint8_t x) {
 
 }
 
+void BOT::setAvg() {
+	printf("setAvg: Bot number %i\n", bot_number);
+	colors[0]->setAvg();
+	colors[2]->setAvg();
+	colors[1]->setAvg();
+
+}
 
 void BOT::create_position(uint8_t color_flag, uint8_t position_flag) {
 	if (color_flag == 0) {

@@ -18,6 +18,14 @@ color::color(std::string s) {
 
 // ---------- FUNCTIONS ----------
 
+void color::setAvg(){
+    printf(" \tcolor %s\n", my_color.c_str());
+    for (int i = 0; i < num_positions; i++){
+        positions[i]->setAvg();
+    }
+}
+
+
 /*
  * Alloc space for a new position struct
  */

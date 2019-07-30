@@ -5,7 +5,7 @@
 #include "bot.hpp"
 #include "allData.hpp"
 
-#define POSITIONS 13
+#define POSITIONS 26
 #define BUFFER 1024
 #define NUMBINS 10
 #define NUMBINS_ALL 25
@@ -14,6 +14,8 @@ using namespace std;
 
 // PREDEFINE SOME FUNCTIONS
 uint8_t unusedColors(vector<BOT*> x, uint8_t bots);
+uint8_t unusedPositions(vector<BOT*> x, uint8_t bots);
+void setAvg(vector<BOT*> x, uint8_t bots);
 
 // MAIN
 int main( int argc, char **argv ){
@@ -140,17 +142,46 @@ int main( int argc, char **argv ){
 		}
 
 	}
+	fclose(readFile); // Close the file
 
 	printf("There are %d bots\n\n", bots);
 
-	uint8_t not_used = unusedColors(x, bots);
+	uint8_t not_used_color = unusedColors(x, bots);
+	uint8_t not_used_positions = unusedPositions(x, bots);
 
-
-	printf("There are %i unused colors\n", not_used);
-
-	fclose(readFile); // Close the file
+	printf("There are %i unused colors\n", not_used_color);
+	printf("There are %i unused positions\n", not_used_positions);
+	setAvg(x, bots);
 
 	return 0;
+}
+
+void setAvg(vector<BOT*> x, uint8_t bots) {
+
+	for (int i = 0; i < bots; i++){
+		x[i]->setAvg();
+	}
+
+}
+
+
+uint8_t unusedPositions(vector<BOT*> x, uint8_t bots) {
+	uint8_t running_total;
+	for (int i = 0; i < bots; i++) { // Loop through all bots
+		for (int j = 0; j < 3; j++) { // Loop through all colors
+			for (int k = 0; k < POSITIONS; k++ ) {
+
+				if (x[i]->colors[j]->positions[k]->num_meas == 0) {
+					printf("Bot %i, color %s, position %i not used\n\n\n\n", i, x[i]->colors[j]->my_color.c_str(), k);
+					++running_total;
+				}/* else {
+                                        printf("Bot %i, color %s, position %i has %i measurements\n", i, x[i]->colors[j]->my_color.c_str(), k, x[i]->colors[j]->positions[k]->num_meas);
+				}*/
+
+			} // k loop
+		} // j loop
+	} // i loop
+	return running_total;
 }
 
 

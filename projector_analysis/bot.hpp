@@ -18,7 +18,7 @@ color *colors[3];
 // FUNCTIONS
 void create_position(uint8_t color_flag, uint8_t position_flag);
 void add_measurement(uint8_t color_flag, uint8_t position_flag, uint8_t measurement_num, uint16_t measurement);
-
+void setAvg();
 // CONSTRUCTOR
 BOT(uint8_t x); // Constructor
 

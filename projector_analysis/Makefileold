@@ -1,0 +1,32 @@
+# See the Makefile for myadd program
+# for an example with a similar structure.
+
+C = gcc
+CXX = g++ -O0 -std=c++11
+#INCLUDES =
+#CFLAGS = -g -Wall $(INCLUDES)
+#CXXFLAGS = -g -Wall $(INCLUDES)
+#LDFLAGS = -g
+#LDLIBS =
+
+SRC = ./src
+BIN = ./
+# Make bin folder if needed
+$(info$(shell mkdir -p $(BIN)))
+
+projector_analysis: $(BIN)/projector_analysis.o $(BIN)/bot.o $(BIN)/color.o $(BIN)/position.o
+	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(LDLIBS) $(BIN)/projector_analysis.o $(BIN)/bot.o $(BIN)/color.o $(BIN)/position.o -o projector_analysis
+$(BIN)/projector_analysis.o: $(SRC)/projector_analysis.cpp $(SRC)/bot.hpp $(SRC)/color.hpp $(SRC)/position.hpp
+$(BIN)/bot.o: $(SRC)/bot.cpp $(SRC)/bot.hpp $(SRC)/color.hpp $(SRC)/position.hpp
+$(BIN)/color.o: $(SRC)/color.cpp $(SRC)/color.hpp $(SRC)/position.hpp
+$(BIN)/position.o: $(SRC)/position.cpp $(SRC)/position.hpp
+# selectionsort: selectionsort_main.o selectionsort.o
+# selectionsort_main.o: selectionsort_main.c selectionsort.h
+# selectionsort.o: selectionsort.c selectionsort.h
+
+.PHONY: clean
+clean:
+	rm -f *.o a.out core projector_analysis $(BIN)/*
+
+.PHONY: all
+all: clean projector_analysis
